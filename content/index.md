@@ -2,11 +2,11 @@
 title: Apuntes de Juan
 draft: "False"
 ---
-Estos son los apuntes de [Juan Zaragoza](juanozaragoza.com) sobre la sociedad.
+Estos son los apuntes de [Juan Zaragoza](https://juanozaragoza.com) sobre la sociedad.
 
-Cada página cuenta una idea sencilla, posiblemente refiriendo a otras ideas sencillas.
+Cada entrada cuenta una idea sencilla y refiere a otras ideas sencillas.
 
-Todavía está en construcción, y no dejará de estarlo. Sentite libre de explorar, sugerir ideas, o hacer preguntas.
+La página está en construcción y nunca dejará de estarlo. 
 
 Podés empezar por acá:
 - [[Estructuras circulares]]
