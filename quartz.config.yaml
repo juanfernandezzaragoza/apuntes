@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Newsreader
-      body: Newsreader
+      header: EB Garamond
+      body: EB Garamond
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f4efe6"
+        lightgray: "#e0d8ca"
+        gray: "#c8bca6"
+        darkgray: "#5a5247"
+        dark: "#211d17"
+        secondary: "#7c2d2d"
+        tertiary: "#9a7b3f"
+        highlight: rgba(200, 188, 166, 0.15)
+        textHighlight: "#9a7b3f44"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#1a1610"
+        lightgray: "#2e2820"
+        gray: "#4a4238"
+        darkgray: "#c8bca6"
+        dark: "#f0e8da"
+        secondary: "#c07878"
+        tertiary: "#b89850"
+        highlight: rgba(200, 188, 166, 0.10)
+        textHighlight: "#9a7b3f55"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -260,7 +260,7 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: true
+    enabled: false
     options:
       theme: default
   - source: github:quartz-community/obsidian-plugin-excalidraw
