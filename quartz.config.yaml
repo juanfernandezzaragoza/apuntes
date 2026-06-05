@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: es-ES
-  baseUrl: juanfernandezzaragoza.github.io/apuntes
+  baseUrl: apuntes.juanozaragoza.com
   ignorePatterns:
     - private
     - templates
