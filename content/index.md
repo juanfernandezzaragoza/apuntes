@@ -2,7 +2,7 @@
 title: Apuntes de Juan
 draft: "False"
 ---
-Estos son los apuntes de Juan Zaragoza sobre la sociedad.
+Estos son los apuntes de [Juan Zaragoza](juanozaragoza.com) sobre la sociedad.
 
 Cada página cuenta una idea sencilla, posiblemente refiriendo a otras ideas sencillas.
 
