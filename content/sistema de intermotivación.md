@@ -1,8 +1,10 @@
 ---
-Title: Sistema de intermotivación social
-Draft: "true"
+title: Sistema de intermotivación
+draft: true
 ---
-Los sistemas de intermotivación son sistemas de incentivos. Uso el término "motivación" en lugar de "incentivo" porque intuitivamente los incentivos suelen asociarse a incentivos monetarios, mientras que el término "motivación" nos recuerda que hay más cosas que nos motivan.
+Los sistemas de intermotivación son, básicamente, sistemas de incentivos. Prefiero usar otro nombre por dos motivos.
+
+Uso el término "motivación" en lugar de "incentivo" porque intuitivamente los incentivos suelen asociarse a incentivos monetarios, mientras que el término "motivación" nos recuerda que hay más cosas que nos motivan.
 
 En este caso, los incentivos se conciben en términos amplios y no necesariamente materiales.
 

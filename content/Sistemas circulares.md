@@ -1,6 +1,6 @@
 ---
 title: Estructuras circulares
-draft: "false"
+draft: false
 tags:
   - fundamentos
 ---

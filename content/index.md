@@ -1,6 +1,6 @@
 ---
 title: Apuntes de Juan
-draft: "false"
+draft: false
 ---
 Estos son los apuntes de [Juan Zaragoza](https://juanozaragoza.com) sobre la sociedad.
 
