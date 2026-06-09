@@ -9,5 +9,5 @@ Cada entrada cuenta una idea sencilla y refiere a otras ideas sencillas.
 La página está en construcción y nunca dejará de estarlo. 
 
 Podés empezar por acá:
-- [[Sistemas circulares]]
+- [[sistemas circulares]]
 

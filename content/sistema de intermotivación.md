@@ -1,14 +1,11 @@
 ---
 title: Sistema de intermotivación
-draft: true
+draft: false
 ---
-Los sistemas de intermotivación son, básicamente, sistemas de incentivos. Prefiero usar otro nombre por dos motivos.
+Un sistema de intermotivación es un sistema de incentivos impuesto por seres humanos. Uso un nombre distinto para precisar dos cosas.
 
-Uso el término "motivación" en lugar de "incentivo" porque intuitivamente los incentivos suelen asociarse a incentivos monetarios, mientras que el término "motivación" nos recuerda que hay más cosas que nos motivan.
+En primer lugar, uso el término "motivación" porque "incentivo" suele tener asociaciones monetarias. Intuitivamente, "motivación" da cuenta de mayor amplitud (también nos puede motivar el amor, una sonrisa, o una sensación de deber).
 
-En este caso, los incentivos se conciben en términos amplios y no necesariamente materiales.
+En segundo lugar, y más importante, prefiero decir "intermotivación" que simplemente "motivación" para reconocer que estamos hablando de personas motivando a otras, y motivándose entre sí. No hablamos de sistemas de promoción y disuasión en abstracto (un sistema de reglas con premios y castigos, sin determinar quién se encarga de premiar o castigar) o surgidos del entorno natural (tener el "incentivo" de evitar leones), sino de humanos promoviendo y disuadiendo acciones de otros humanos. 
 
-El término "intermotivación" me gusta porque denota que tiene que haber gente incentivando (algo que también forma parte del mismo sistema humano) y excluye incentivos externos (podríamos decir qeu el universo nos incentiva a comer, algo excluido en esta definición).
-
-organización social es un sistema de o penalizar acciones. Asociar premios y castigos a diversas acciones 
-
+Uso este término para dejar más explícita la crucial pregunta de [[sistemas circulares|quién o qué motiva a los que se encargan de motivar a otros]].
