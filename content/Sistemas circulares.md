@@ -8,4 +8,4 @@ Un sistema de organización social es un [[sistema de intermotivación]] para el
 
 Son "circulares" en el sentido de que son autorreferenciales o autopoiéticos. El sistema garantiza que los participantes garanticen el sistema. Funcionalmente, son sistemas que se "sostienen a sí mismos".
 
-Sólo los sistemas circulares pueden ser pilares o sistemas básicos de la cooperación. Esto es porque si un sistema no es capaz de sostenerse a sí mismo, entonces debe sostenerse en otro sistema.
+Sólo los sistemas circulares pueden ser pilares o sistemas básicos de la cooperación. Esto es porque si un sistema no es capaz de [[dependencia|sostenerse]] a sí mismo, entonces debe sostenerse en otro sistema.
