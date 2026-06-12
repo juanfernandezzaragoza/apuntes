@@ -3,11 +3,10 @@ draft: true
 ---
 A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages 
 
-
-- sostén de sistemas (circular/básico, o subsidiario)
 - Sistemas básicos (y subsidiarios)
-- Reciprocidad, reconocimiento, jerarquías, mercado
--
+- Reciprocidad, reconocimiento, mercado
+- Clasificacion de tejidos en escalas y niveles
+- Correlatos emocionales de sistemas de cooperación
 
 - **Qué son los problemas de cooperación**
 	- Esto hace que no sea un problema de cooperacion respirar, ni generar datos en google maps.  
