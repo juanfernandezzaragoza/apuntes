@@ -1,0 +1,9 @@
+---
+title: Reconocimiento
+draft: false
+---
+El reconocimiento es el [[sistema de intermotivación]] que fundamenta a las comunidades, aldeas, grupos activistas, comunas, cooperativas y tribus que se organizan de manera horizontal.
+
+Consiste en premiar (o penalizar) a quienes (no) cumplen las reglas, incluida la regla de premiar (o penalizar) adecuadamente. Es [[sistemas circulares|circular]] porque premia a quienes ayudan a imponerlo y penaliza a quienes faltan a hacerlo.
+
+Para que un grupo se organice mediante el reconocimiento, es necesario que cada participante pueda estar al tanto de las actividades de los demás. Dado que esto es imposible en grandes escalas, el reconocimiento no puede organizar grupos grandes.
