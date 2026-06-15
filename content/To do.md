@@ -4,8 +4,10 @@ draft: true
 A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages 
 
 - Sistemas básicos (y subsidiarios)
-- Reciprocidad, reconocimiento, mercado
-- Clasificacion de tejidos en escalas y niveles
+- Ejemplos de reconocimiento
+- Clasificacion de tejidos en escalas y niveles (y explicación de por qué no)...
+	- Qué significa el nivel de la cooperación -> Refiere a la noción de las externalidades
+	- Qué significa la escala de la cooperación
 - Correlatos emocionales de sistemas de cooperación
 
 - **Qué son los problemas de cooperación**
