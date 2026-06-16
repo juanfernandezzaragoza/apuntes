@@ -2,7 +2,7 @@
 title: Clasificación de sistemas
 draft: false
 ---
-Los cuatro teijdos de cooperación se distinguen según el nivel y la escala en que pueden funcionar, tal como lo indica el siguiente cuadro:
+Los cuatro tejidos de cooperación se distinguen según el [[nivel de cooperación|nivel]] y la escala en que pueden funcionar, tal como lo indica el siguiente cuadro:
 
 |                    | Nivel individual | Nivel grupal       |
 | ------------------ | ---------------- | ------------------ |
