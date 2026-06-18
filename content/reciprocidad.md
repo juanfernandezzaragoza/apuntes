@@ -8,6 +8,6 @@ Consiste en recompensar a quien nos beneficia personalmente, y penalizar a quien
 
 La reciprocidad es [[sistemas circulares|circular|]] porque implementarla es provechoso. Esto es porque implementarla incentiva a otros a favorecernos y disuade que nos perjudiquen. 
 
-Hay dos casos en que la reciprocidad no prospera, que son los contextos sin reencuentros y los contextos en que las acciones de otros no nos afectan personalmente sino que benefician o perjudican a un grupo entero.
+En contextos sin reencuentros, la reciprocidad no prospera. En contextos que requieren [[nivel de cooperación|cooperación grupal]], porque las acciones tienen [[externalidad|externalidades]] que afectan a grupos enteros, la reciprocidad [[reciprocidad y externalidades|tampoco prospera]].
 
 Hay una implementación automática e inconsciente de la reciprocidad mediante nuestras emociones.
