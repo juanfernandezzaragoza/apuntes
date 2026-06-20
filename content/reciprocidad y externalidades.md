@@ -1,5 +1,5 @@
 ---
-title: La reciprocidad tiene externalidades
+title: Externalidades de reciprocidad
 draft: false
 ---
 La [[reciprocidad]] no es suficiente para moderar [[externalidad|externalidades]].

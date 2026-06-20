@@ -1,6 +1,3 @@
----
-draft: true
----
 A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages 
 
 - Sistemas básicos (y subsidiarios)-> ejemplo
@@ -14,6 +11,16 @@ A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+n
 	- Qué significa la escala de la cooperación
 - Correlatos emocionales de sistemas de cooperación
 
+- dilema central
+- por qué jerarquías son grupales
+- Por qué reconocimiento no escala
+- por qué jerarquía no escala
+- por qué reconocimiento no escala
+- Por qué mercado escala
+- por qué mercado explicita reciprocidad
+- quinto tejido
+
+
 - **Qué son los problemas de cooperación**
 	- Esto hace que no sea un problema de cooperacion respirar, ni generar datos en google maps.  
   
@@ -21,3 +28,4 @@ A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+n
   
 		No se si tiene q ver pero hay q pensar esa conexion. Xq no es tan seriamente jerarquia el poder se los efectos de red, aunque en realidad siempre tome como prioritarios a los efectos de red sobre las jerarquias solo despues habke de jefes como resolviendo el problema de cooperar  
 		[6:47 AM, 12/14/2025] juan Zaragoza: Que una gacela se sume a la manada beneficia a todo el grupo, pero tambien a la gacela. Entonces no cuenta
+
