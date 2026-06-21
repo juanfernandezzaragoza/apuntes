@@ -1,3 +1,9 @@
+---
+title: to do
+draft: true
+---
+
+
 A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages 
 
 - Las jerarquías son escalables
