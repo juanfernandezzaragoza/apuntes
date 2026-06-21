@@ -1,5 +1,11 @@
 A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages 
 
+- Las jerarquías son escalables
+- Mercado no resuelve cooperación grupal (tomar, por ejemplo, nota de Thiel)
+- Las jerarquías resuelven externalidades (siempre que convenga al jerarca)
+- El mercado escala la reciprocidad (tomar "La Causa")
+
+
 - Sistemas básicos (y subsidiarios)-> ejemplo
 - Qué es "compensar"
 - Ejemplos de reconocimiento
