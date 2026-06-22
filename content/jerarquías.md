@@ -8,4 +8,4 @@ Es un sistema [[sistemas circulares|circular]] porque a ningún subordinado le c
 
 Las jerarquías promueven las acciones de [[nivel de cooperación|cooperación grupal]] que benefician al jerarca. Beneficiar a los subordinados puede ser conveniente para el jerarca en algunas ocasiones y en otras no.
 
-Como [[el reconocimiento no escala]] y [[las jerarquías son escalables]], la cooperación grupal de gran escala se sostiene en jerarquías.
+Como [[el reconocimiento no escala]] y [[las jerarquías escalan]], la cooperación grupal de gran escala se sostiene en jerarquías.

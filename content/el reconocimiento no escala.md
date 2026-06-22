@@ -14,4 +14,4 @@ Para saber que C no penalizó adecuadamente a B cuando tenía que haberlo hecho,
 
 Del mismo modo, para saber que Diego cumple su rol, hay que estar al tanto de las actividades de A, B, C y D. Estar al tanto del cumplimiento estricto del reconocimiento requiere ver la actividad de todos los participantes, algo factible en grupos pequeños pero no en grupos grandes.
 
-Como el reconocimiento no escala, los grupos grandes sostienen su [[nivel de cooperación|cooperación grupal]] en [[jerarquías]], porque [[las jerarquías son escalables]].
+Como el reconocimiento no escala, los grupos grandes sostienen su [[nivel de cooperación|cooperación grupal]] en [[jerarquías]], porque [[las jerarquías escalan]].

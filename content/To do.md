@@ -7,6 +7,7 @@ draft: true
 A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages 
 
 - Las jerarquías son escalables
+- Sistema básico = tejido de cooperación (explícito, que son circulares, que se sostienen a sí mismos, y que sostienen a todos los demás)
 - Mercado no resuelve cooperación grupal (tomar, por ejemplo, nota de Thiel)
 - Las jerarquías resuelven externalidades (siempre que convenga al jerarca)
 - El mercado escala la reciprocidad (tomar "La Causa")
