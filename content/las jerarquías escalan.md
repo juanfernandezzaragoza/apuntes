@@ -13,8 +13,8 @@ Lo que vuelve escalables a las jerarquías es que estas pueden anidarse para for
 ```mermaid
 graph TD
     R["Jefe grupo 1"]
-    A["Subordinado grupo 1<br/>Jefe grupo 2"]
-    B["Subordinado grupo 1<br/>Jefe grupo 3"]
+    A["Subordinado grupo 1<br/>(Jefe grupo 2)"]
+    B["Subordinado grupo 1<br/>(Jefe grupo 3)"]
     A1["Subordinado grupo 2"]
     A2["Subordinado grupo 2"]
     B1["Subordinado grupo 3"]
