@@ -21,4 +21,6 @@ La cooperación comunitaria y social se sostiene en la construcción de mecanism
 
 Tanto la [[reciprocidad y externalidades|reciprocidad]] como el [[mercado y externalidades|mercado]] tienen externalidades problemáticas.
 
-
+**Vínculos externos**
+- [Artículo de wikipedia](https://es.wikipedia.org/wiki/Externalidad)
+- [Ensayo de Slatestarcodex](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) 

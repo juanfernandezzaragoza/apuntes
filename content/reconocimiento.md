@@ -9,3 +9,8 @@ Consiste en premiar (o penalizar) a quienes (no) cumplen las reglas, incluida la
 Para que un grupo se organice mediante el reconocimiento, es necesario que cada participante pueda estar al tanto de las actividades de los demás. Dado que esto es imposible en grandes escalas, el reconocimiento no puede organizar grupos grandes.
 
 El reconocimiento promueve las acciones de cooperación grupal que benefician a la mayoría de los participantes.
+
+**Vínculos externos**
+- [Normas sociales](https://es.wikipedia.org/wiki/Norma_social)
+- [La complejidad de la cooperación](https://en.wikipedia.org/wiki/The_Complexity_of_Cooperation)
+- [Elinor Ostrom](https://es.wikipedia.org/wiki/Elinor_Ostrom)
