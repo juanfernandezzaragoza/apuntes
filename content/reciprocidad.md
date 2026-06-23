@@ -11,3 +11,7 @@ La reciprocidad es [[sistemas circulares|circular|]] porque implementarla es pro
 En contextos sin reencuentros, la reciprocidad no prospera. En contextos que requieren [[nivel de cooperación|cooperación grupal]], porque las acciones tienen [[externalidad|externalidades]] que afectan a grupos enteros, la reciprocidad [[reciprocidad y externalidades|tampoco prospera]].
 
 La reciprocidad es implementada por nuestras [[emociones de reciprocidad|emociones]], de manera que la llevamos a cabo en forma automática e inconsciente.
+
+**Vínculos externos**
+- [Tit for tat](https://en.wikipedia.org/wiki/Tit_for_tat)
+- [Evolution of trust](https://ncase.me/trust/) 

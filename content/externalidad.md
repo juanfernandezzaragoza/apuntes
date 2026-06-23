@@ -19,6 +19,6 @@ Las externalidades problemáticas, entonces, son las que afectan a los demás de
 
 La cooperación comunitaria y social se sostiene en la construcción de mecanismos capaces de promover las externalidades positivas y disuadir las externalidades negativas (en los casos en que estas externalidades sean problemáticas).
 
-
+Tanto la [[reciprocidad y externalidades|reciprocidad]] como el [[mercado y externalidades|mercado]] tienen externalidades problemáticas.
 
 
