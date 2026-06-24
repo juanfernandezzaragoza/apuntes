@@ -12,6 +12,8 @@ En contextos sin reencuentros, la reciprocidad no prospera. En contextos que req
 
 La reciprocidad es implementada por nuestras [[emociones de reciprocidad|emociones]], de manera que la llevamos a cabo en forma automática e inconsciente.
 
+La reciprocidad tiene una versión [[mercado escala reciprocidad|explícita y escalable]], el mercado.
+
 **Vínculos externos**
 - [Tit for tat](https://en.wikipedia.org/wiki/Tit_for_tat)
 - [Evolution of trust](https://ncase.me/trust/) 

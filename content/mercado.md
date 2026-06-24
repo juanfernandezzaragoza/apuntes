@@ -8,5 +8,5 @@ Es [[sistemas circulares|circular]] porque, si otros valoran el dinero, entonces
 
 Lo anterior asume, como supuesto, que el dinero es escaso. Históricamente, los Estados se encargaron de garantizar la escasez del dinero, aunque en la actualidad es posible tener dinero escaso sin intervención de [[jerarquías]].
 
-El mercado puede concebirse como una forma explícita de la [[reciprocidad]]. No es capaz de resolver la [[nivel de cooperación|cooperación grupal]] porque también cae en [[mercado y externalidades|externalidades]].
+El mercado puede concebirse como una [[mercado escala reciprocidad|forma explícita y escalable]] de la [[reciprocidad]]. No es capaz de resolver la [[nivel de cooperación|cooperación grupal]] porque también cae en [[mercado y externalidades|externalidades]].
 
