@@ -9,4 +9,4 @@ Los cuatro tejidos de cooperación se distinguen según el [[nivel de cooperaci�
 | **Escala pequeña** | [[reciprocidad]] | [[reconocimiento]] |
 | **Escala grande**  | [[mercado]]      | [[jerarquías]]     |
 
-En la gran escala, no tenemos una alternativa a las jerarquías para sostener la cooperación grupal. Esto da lugar al dilema central de la economía.
+En la gran escala, no tenemos una alternativa a las jerarquías para sostener la cooperación grupal. Esto da lugar al [[dilema central]] de la cooperación.

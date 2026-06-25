@@ -8,7 +8,6 @@ A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+n
 
 - Sistema básico = tejido de cooperación (explícito, que son circulares, que se sostienen a sí mismos, y que sostienen a todos los demás)
 - Las jerarquías resuelven externalidades (siempre que convenga al jerarca)
- - Equilibrio estable
  - La reciprocidad no escala
  - La versión explícita de un tejido no nos hace sentir bien emocionalmente.
 
@@ -25,14 +24,21 @@ A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+n
 
 - dilema central
 - por qué jerarquías son grupales
-- Por qué reconocimiento no escala
+[x] Por qué reconocimiento no escala
 - por qué jerarquía no escala
 - por qué reconocimiento no escala
 - Por qué mercado escala
 - por qué mercado explicita reciprocidad
 - quinto tejido
 
+---
 
+Cómo se determina la ganancia de los jerarcas.
+Desplazamiento de comunidades
+Etc.
+
+
+---
 - **Qué son los problemas de cooperación**
 	- Esto hace que no sea un problema de cooperación respirar, ni generar datos en Google Maps.  
   
@@ -41,3 +47,5 @@ A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+n
 		No sé si tiene que ver pero hay que pensar esa conexión. Porque no es tan seriamente jerarquía el poder de los efectos de red, aunque en realidad siempre tomé como prioritarios a los efectos de red sobre las jerarquías; solo después hablé de jefes como resolviendo el problema de cooperar  
 		[6:47 AM, 12/14/2025] juan Zaragoza: Que una gacela se sume a la manada beneficia a todo el grupo, pero tambien a la gacela. Entonces no cuenta
 
+1. Penalización negativa: quitar premios, opciones de ascenso, dar menos valor al participante.
+	2. Penalización positiva: meter en la cárcel, 
