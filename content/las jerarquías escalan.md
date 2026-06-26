@@ -2,7 +2,7 @@
 title: Las jerarquías son escalables
 draft: false
 ---
-Actualmente, las [[jerarquías]] son el único [[sistemas circulares|tejido de cooperación]] de [[nivel de cooperación|nivel grupal]] capaz de sostenerse en [[escala de cooperación|grandes escalas]].
+Actualmente, las [[jerarquías]] son el único [[tejido de cooperación]] de [[nivel de cooperación|nivel grupal]] capaz de sostenerse en [[escala de cooperación|grandes escalas]].
 
 A diferencia del [[reconocimiento]], que requiere [[el reconocimiento no escala|vigilancia mutua]] entre los miembros de la comunidad, las jerarquías solo requieren que:
 1. El jefe pueda vigilar a sus subordinados

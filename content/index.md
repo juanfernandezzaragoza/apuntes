@@ -8,9 +8,10 @@ Cada entrada cuenta una idea sencilla y refiere a otras ideas sencillas.
 
 La página está en construcción y nunca dejará de estarlo. Todas las mañanas, desde el 8 de junio de 2026, sumo al menos una página nueva a esta wiki.
 
+Si tenés preguntas o comentarios, no dudes en contactarme.
+
 Podés empezar por acá:
 - [[sistemas circulares]]
 - [[dilema central]]
 - [[clasificación de sistemas]]
-- [[externalidad]]
 

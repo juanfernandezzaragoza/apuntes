@@ -23,13 +23,18 @@ A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+n
 - Correlatos emocionales de sistemas de cooperación
 
 - dilema central
-- por qué jerarquías son grupales
+[x] por qué jerarquías son grupales
 [x] Por qué reconocimiento no escala
-- por qué jerarquía no escala
-- por qué reconocimiento no escala
-- Por qué mercado escala
+[x] por qué jerarquía escala
+[x] por qué reconocimiento no escala
+[x] Por qué mercado escala
 - por qué mercado explicita reciprocidad
 - quinto tejido
+
+[ ] Desarrollo tecnológico
+[ ] Desplazamiento de comunidades
+[ ] Disputa entre jerarcas
+[ ] Cápsides y ecólisis
 
 ---
 

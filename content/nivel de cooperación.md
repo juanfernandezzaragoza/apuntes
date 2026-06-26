@@ -2,7 +2,7 @@
 title: Nivel de cooperación
 draft: false
 ---
-Los [[sistemas circulares|tejidos de cooperación]] se distinguen según su nivel, es decir, según si todo el grupo compensa cada acción en conjunto, o si cada individuo lo hace por separado.
+Los [[tejido de cooperación|tejidos de cooperación]] se distinguen según su nivel, es decir, según si todo el grupo compensa cada acción en conjunto, o si cada individuo lo hace por separado.
 
 Los sistemas de cooperación grupal son capaces de forzar a todos los participantes de un grupo a participar de la compensación. El [[reconocimiento]] y las [[jerarquías]] son tejidos de cooperación grupal. Un ejemplo de cooperación grupal es cuando toda una población paga el arreglo de una plaza a través de sus impuestos.
 
