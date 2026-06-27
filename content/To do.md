@@ -35,6 +35,7 @@ A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+n
 [ ] Desplazamiento de comunidades
 [ ] Disputa entre jerarcas
 [ ] Cápsides y ecólisis
+[ ] Valor
 
 ---
 
