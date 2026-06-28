@@ -15,7 +15,7 @@ Lo anterior es una tendencia general a nivel histórico y podría tener excepcio
 3. Teóricamente, la mejor tecnología disponible en una época podría requerir integrar grupos menores que la mejor tecnología disponible en una época anterior. Esta tendencia parece menor en la práctica.
 ### Efectos
 
-La tendencia a que los tejidos de cooperación puedan escalar lleva a que compitan entre sí por participantes. Además, la tendencia de los tejidos a escalar agrava el [[dilema central]].
+La tendencia a que los tejidos de cooperación puedan escalar lleva a que [[competencia de tejidos|compitan entre sí]] por participantes. Además, la tendencia de los tejidos a escalar agrava el [[dilema central]].
 
 
 
