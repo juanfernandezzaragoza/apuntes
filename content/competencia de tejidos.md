@@ -9,7 +9,7 @@ A medida que la humanidad descubre manera de aprovechar rendimientos a escala ha
 Las diferencias de poder se amplifican porque los tejidos más poderosos adquieren mayor capacidad de crecer y los tejidos más débiles pierden capacidad de crecer. Esto genera una dinámica de "crecer o perecer".
 
 Esto tiene los siguientes efectos:
-1. Las [[reconocimiento|comunidades]] pierden participantes y eventualmente son desplazadas por jerarquías.
+1. Las [[reconocimiento|comunidades]] pierden participantes y eventualmente son [[desplazamiento de comunidades|desplazadas]] por jerarquías.
 2. Las [[jerarquías]] mayores crecen y el poder se concentra en pocos jerarcas poderosos.
 3. La disputa por crecer o perecer se aproxima a un juego donde el ganador se lleva todo, por lo que puede generar luchas encarnizadas.
 4. En algunos contextos, los tejidos débiles oprimen a sus participantes para sobrevivir. Eventualmente, los tejidos poderosos liberan a los participantes de tejidos débiles para seguir creciendo.
