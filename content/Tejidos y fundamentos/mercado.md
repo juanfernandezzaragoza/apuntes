@@ -1,5 +1,5 @@
 ---
-title: mercado
+title: Mercado
 draft: false
 ---
 El mercado es un [[sistema de intermotivación]] que sostiene la cooperación mediante compras y ventas. 
