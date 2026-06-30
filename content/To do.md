@@ -2,7 +2,12 @@
 title: to do
 draft: true
 ---
-
+- Ecólisis
+- Desplazamiento (en general, no sólo de comunidades)
+- Organización (básicamente, un grupo organizado por algún tejido grupal)
+- Caída de códigos morales
+	- Sumar a lo de "esclavitud" un comentario sobre que los códigos morales ganan sobre los económicos
+- Crecer o perecer
 
 A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages 
 
