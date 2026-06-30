@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Amplificación de asimetrías
 draft: false
 ---
 Cuantos más participantes tiene un [[tejido de cooperación]], tiende a poder dar recompensas y penalizaciones más impactantes.

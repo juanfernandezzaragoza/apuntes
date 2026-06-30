@@ -16,4 +16,5 @@ Por eso, a las organizaciones débiles les conviene ser opresivas y a las organi
 | ------------ | -------------------------------- | -------------------------------- |
 | **Próspero** | Alta retención, baja adquisición | Alta retención, alta adquisición |
 | **Débil**    | Alta retención, baja adquisición | Baja retención, baja adquisición |
+
 Por otra parte, incluso para las organizaciones débiles, ser opresivo es una [[externalidad]] negativa entre las organizaciones, dado que preserva la productividad de la propia organización pero limita el crecimiento de otras organizaciones. Si existe alguna estructura de [[nivel de cooperación|cooperación grupal]] de [[escala de cooperación|gran escala]], es probable que esta penalice la opresión para disuadir la externalidad negativa.
