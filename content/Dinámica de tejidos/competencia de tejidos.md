@@ -6,7 +6,7 @@ La competencia de tejidos o disputa de redes es la competencia entre [[tejido de
 
 A medida que la humanidad descubre manera de aprovechar rendimientos a escala hasta escalas mayores, las organizaciones tienden a crecer. Para crecer, toman participantes de otras organizaciones. Dado que las [[las jerarquías escalan]] y [[el reconocimiento no escala]], el crecimiento de las organizaciones implica el crecimiento de las jerarquías.
 
-Las diferencias de poder se amplifican porque los tejidos más poderosos adquieren mayor capacidad de crecer y los tejidos más débiles pierden capacidad de crecer. Esto genera una dinámica de "crecer o perecer".
+Las diferencias de poder se amplifican porque los tejidos más poderosos adquieren mayor capacidad de crecer y los tejidos más débiles pierden capacidad de crecer. Esto genera una dinámica de [[crecer o perecer]].
 
 Esto tiene los siguientes efectos:
 1. Las [[reconocimiento|comunidades]] pierden participantes y eventualmente son [[desplazamiento de comunidades|desplazadas]] por jerarquías.

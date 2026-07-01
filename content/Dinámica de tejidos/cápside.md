@@ -2,11 +2,13 @@
 title: Cápside
 draft: false
 ---
-Las cápsides son restricciones de la libertad impuestas por organizaciones débiles para evitar ser desplazadas. Eventualmente las restricciones son levantadas por organizaciones poderosas que necesitan desplazar a las organizaciones débiles para seguir creciendo.
+Las cápsides son restricciones de la libertad impuestas por organizaciones débiles para evitar ser desplazadas. Eventualmente las restricciones son [[ecolisis|levantadas]] por organizaciones poderosas que necesitan desplazar a las organizaciones débiles para seguir creciendo.
 
-Las cápsides son la forma general del esclavismo. En términos estrictamente económicos, cabe la pregunta de [[por qué no todos los jerarcas son esclavistas]].
+Las cápsides son la forma general del esclavismo. En términos estrictamente económicos, cabe la pregunta de [[por qué no todos los jerarcas son esclavistas]]. 
 
-**Dinámica de las cápsides**
+El término "cápside" proviene de la biología, donde denomina la "pared" de los virus. Comparte raíz con los términos "cautivo" o "capturar". 
+
+### Dinámica de las cápsides
 
 A medida que se [[desarrollo tecnológico|desarrolla la tecnología]] y se [[amplificación de asimetrías|amplifica]] la asimetría productiva entre organizaciones, las organizaciones débiles pueden ofrecer cada vez menos recompensas, y las organizaciones poderosas pueden ofrecer recompensas mayores cada vez.
 
@@ -16,7 +18,7 @@ Para compensar las recompensas mayores que ofrecen las organizaciones prósperas
 
 Cuanto mayor es la asimetría productiva y más ricas son las recompensas ofrecidas por la organización próspera, más severos son los castigos necesarios para que la organización débil compense la asimetría y no desaparezca.
 
-**Ejemplos históricos**
+### Ejemplos históricos
 
 Los señores feudales prohibieron a sus siervos migrar a las industriosas ciudades durante la Edad Media. España prohibió a sus colonias comerciar con Gran Bretaña en los albores de la Revolución Industrial. Los hacendados algodoneros del Sur prohibían que sus esclavos migraran a las fábricas del Norte de los Estados Unidos.
 
