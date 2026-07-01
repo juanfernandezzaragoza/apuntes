@@ -12,6 +12,6 @@ Para saber que B no da frutas a A, hace falta ver que A hizo fuego y que B no di
 
 Para saber que C no penalizó adecuadamente a B cuando tenía que haberlo hecho, hace falta ver que B faltó a dar frutas cuando debía (eso requiere estar al tanto de A y de B), y ver que C no lo penalizó. Esto requiere estar al tanto de las acciones de A, B y C.
 
-Del mismo modo, para saber que Diego cumple su rol, hay que estar al tanto de las actividades de A, B, C y D. Estar al tanto del cumplimiento estricto del reconocimiento requiere ver la actividad de todos los participantes, algo factible en grupos pequeños pero no en grupos grandes.
+Del mismo modo, para saber que D cumple su rol, hay que estar al tanto de las actividades de A, B, C y D. Estar al tanto del cumplimiento estricto del reconocimiento requiere ver la actividad de todos los participantes, algo factible en grupos pequeños pero no en grupos grandes.
 
 Como el reconocimiento no escala, los grupos grandes sostienen su [[nivel de cooperación|cooperación grupal]] en [[jerarquías]], porque [[las jerarquías escalan]].
