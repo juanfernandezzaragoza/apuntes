@@ -2,7 +2,7 @@
 title: Cápside
 draft: false
 ---
-Las cápsides son restricciones de la libertad impuestas por organizaciones débiles para evitar ser desplazadas. Eventualmente las restricciones son [[ecolisis|levantadas]] por organizaciones poderosas que necesitan desplazar a las organizaciones débiles para seguir creciendo.
+Las cápsides son restricciones de la libertad impuestas por [[organización|organizaciones]] débiles para evitar ser desplazadas. Eventualmente las restricciones son [[ecolisis|levantadas]] por organizaciones poderosas que necesitan desplazar a las organizaciones débiles para seguir creciendo.
 
 Las cápsides son la forma general del esclavismo. En términos estrictamente económicos, cabe la pregunta de [[por qué no todos los jerarcas son esclavistas]]. 
 

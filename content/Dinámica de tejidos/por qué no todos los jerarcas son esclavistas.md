@@ -2,7 +2,7 @@
 Title: Por qué no todos los jerarcas son esclavistas
 draft: false
 ---
-Existiendo la [[cápside|esclavitud]], una pregunta relevante es por qué no todas las organizaciones son esclavistas, desde una perspectiva estrictamente económica y no moral. 
+Existiendo la [[cápside|esclavitud]], una pregunta relevante es por qué no todas las [[organización|organizaciones]] son esclavistas, desde una perspectiva estrictamente económica y no moral. 
 
 Para los sistemas más prósperos, ser opresivos no es conveniente cuando se tiene en cuenta la dinámica de crecer o perecer dada por la [[competencia de tejidos]]. Esto es porque aunque ser esclavista mejora la retención de participantes, empeora la adquisición, porque es preferible incorporarse a una organización que ofrezca libertad de movimiento.
 

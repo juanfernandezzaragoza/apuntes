@@ -4,13 +4,13 @@ draft: false
 ---
 El desarrollo tecnológico tiende a hacer que los mayores [[tejido de cooperación|tejidos de cooperación]] escalen.
 
-Las organizaciones tienden a escalar cuando el costo de hacerlo es menor que el aumento que implica para su produccción (o capacidad de obtener valor).
+Las [[organización|organizaciones]] tienden a escalar cuando el costo de hacerlo es menor que el aumento que implica para su produccción (o capacidad de obtener valor).
 
 Parte del costo de incorporar participantes proviene de dificultades para planificar, coordinar e integrar la actividad de grupos. Al mismo tiempo, el aumento productivo depende de la eficacia para integrar un participante nuevo al proceso productivo preexistente. Por eso, la mejora en las técnicas de coordinación, comunicación y planificación, en las máquinas y herramientas, y otros factores que permitan aprovechar mayores grados de especialización, tiende a abrir la posibilidad de que las organizaciones escalen.
 ### Posibles excepciones
 
 Lo anterior es una tendencia general a nivel histórico y podría tener excepciones. Por ejemplo:
-1. Como efecto de intentar escalar, las organizaciones pueden enfrentarse entre sí y que ello reduzca su poderío y tamaño.
+1. Como efecto de intentar escalar, las [[organización|organizaciones]] pueden enfrentarse entre sí y que ello reduzca su poderío y tamaño.
 2. Las alteraciones climáticas pueden tener efectos mayores que la tecnología en algunos contextos (por ejemplo, podrían alterar drásticamente la producción de alimentos).
 3. Teóricamente, la mejor tecnología disponible en una época podría requerir integrar grupos menores que la mejor tecnología disponible en una época anterior. Esta tendencia parece menor en la práctica.
 ### Efectos
