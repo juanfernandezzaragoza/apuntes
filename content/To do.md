@@ -1,6 +1,6 @@
 ---
 title: to do
-draf: true
+draft: true
 ---
 
 - Desplazamiento (en general, no sólo de comunidades)
