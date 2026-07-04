@@ -2,7 +2,7 @@
 title: Reciprocidad
 draft: false
 ---
-La reciprocidad es el [[sistema de intermotivación]] detrás de las amistades. Puede funcionar tanto entre individuos como entre [[organización|organizaciones]]. 
+La reciprocidad es el [[sistema de intermotivación]] detrás de las amistades. Puede funcionar tanto entre individuos como entre [[Organización|organizaciones]]. 
 
 Consiste en recompensar a quien nos beneficia personalmente, y penalizar a quien nos perjudica personalmente. Dicho de otra manera, consiste en devolver los favores y los daños.
 

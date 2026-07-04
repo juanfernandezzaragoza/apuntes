@@ -1,6 +1,6 @@
 ---
 title: to do
-draft: true
+draf: true
 ---
 
 - Desplazamiento (en general, no sólo de comunidades)
@@ -59,3 +59,9 @@ Etc.
 
 1. Penalización negativa: quitar premios, opciones de ascenso, dar menos valor al participante.
 	2. Penalización positiva: meter en la cárcel, 
+
+----
+1. No queda claro que 
+
+2. 
+3. 
