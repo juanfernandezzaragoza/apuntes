@@ -14,4 +14,4 @@ Esto tiene los siguientes efectos:
 3. La disputa por crecer o perecer se aproxima a un juego donde el [[Despotismo|ganador se lleva todo]], por lo que puede generar luchas encarnizadas.
 4. En algunos contextos, los tejidos débiles [[cápside|oprimen]] a sus participantes para sobrevivir. Eventualmente, los tejidos poderosos [[ecolisis|liberan]] a los participantes de tejidos débiles para seguir creciendo.
 
-En el extremo de escalabilidad, la competencia entre los cuatro tejidos de cooperación converge a dos destinos posibles, el [[despotismo]] y el colapso.
+En el extremo de escalabilidad, la competencia entre los cuatro tejidos de cooperación converge a dos destinos posibles, el [[despotismo]] y el [[colapso]].
