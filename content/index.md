@@ -11,7 +11,7 @@ La página está en construcción y nunca dejará de estarlo. Todas las mañanas
 Si tenés preguntas o comentarios, no dudes en contactarme.
 
 Podés empezar por acá:
-- [[sistemas circulares]]
-- [[dilema central]]
-- [[clasificación de sistemas]]
+- [[Tejido de cooperación]]
+- [[Clasificación de sistemas]]
+- [[Competencia de tejidos]]
 

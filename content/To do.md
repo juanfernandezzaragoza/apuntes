@@ -3,9 +3,19 @@ title: to do
 draft: true
 ---
 
+1. Emociones de reconocimiento: admiración, desprecio (convergencia de reconocimiento), envidia y lástima (dinámica de tejidos detrás de la envidia y la lástima)
+2. Valores (como el resultado de la convergencia del reconocimiento: cuánto se valora algo, cuánto se valora premiarlo o penalizarlo)
+
+
+
+
+
+----
+
 - Desplazamiento (en general, no sólo de comunidades)
 - Caída de códigos morales
 	- Sumar a lo de "esclavitud" un comentario sobre que los códigos morales ganan sobre los económicos
+- Heroísmo y tabú
 
 
 A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages 
