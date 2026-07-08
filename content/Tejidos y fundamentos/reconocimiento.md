@@ -10,6 +10,8 @@ Para que un grupo se organice mediante el reconocimiento, es necesario que cada 
 
 El reconocimiento promueve las acciones de cooperación grupal que benefician a la mayoría de los participantes.
 
+Las [[organización|organizaciones]] regidas por el reconocimiento se llaman "comunidades".
+
 **Vínculos externos**
 - [Normas sociales](https://es.wikipedia.org/wiki/Norma_social)
 - [La complejidad de la cooperación](https://en.wikipedia.org/wiki/The_Complexity_of_Cooperation)

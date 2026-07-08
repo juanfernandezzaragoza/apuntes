@@ -4,8 +4,8 @@ draft: true
 ---
 
 1. Emociones de reconocimiento: admiración, desprecio (convergencia de reconocimiento), envidia y lástima (dinámica de tejidos detrás de la envidia y la lástima)
-2. Valores (como el resultado de la convergencia del reconocimiento: cuánto se valora algo, cuánto se valora premiarlo o penalizarlo)
-
+2. Racionalización
+3. Mito discursivista
 
 
 
