@@ -15,7 +15,7 @@ Pueden [[clasificación de sistemas|clasificarse]] según su escala y nivel de c
 Los tejidos de cooperación son las estructuras fundamentales del comportamiento social humano:
 1. Son internamente estables pero compiten entre sí según patrones específicos.
 2. Su evolución explica tendencias macroscópicas del ánimo social, porque nuestras emociones implementan los tejidos de [[escala de cooperación|escalas pequeñas]].
-3. Su evolución explica tendencias macroscópicas de la historia social y política humanas.
+3. Su evolución explica tendencias macroscópicas de la [[competencia de tejidos|historia social]] y política humanas.
 4. Su evolución impacta en la cultura, porque las normas sociales se sostienen en tejidos.
 5. Son determinantes para enfrentar las grandes crisis sociales de la actualidad porque sufren un [[dilema central]] que es fundamental para que estas crisis surjan.
 6. Determinan el alcance y los límites de los sistemas de reglas que se apoyen en ellos para subsistir.

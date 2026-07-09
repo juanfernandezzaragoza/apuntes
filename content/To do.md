@@ -4,8 +4,7 @@ draft: true
 ---
 
 1. Emociones de reconocimiento: admiración, desprecio (convergencia de reconocimiento), envidia y lástima (dinámica de tejidos detrás de la envidia y la lástima)
-2. Racionalización
-3. Mito discursivista
+2. Mito discursivista
 
 
 
@@ -36,7 +35,7 @@ A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+n
 	- Qué significa la escala de la cooperación
 - Correlatos emocionales de sistemas de cooperación
 
-- dilema central
+[x] dilema central
 [x] por qué jerarquías son grupales
 [x] Por qué reconocimiento no escala
 [x] por qué jerarquía escala

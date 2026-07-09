@@ -22,4 +22,4 @@ Cuanto mayor es la asimetría productiva y más ricas son las recompensas ofreci
 
 Los señores feudales prohibieron a sus siervos migrar a las industriosas ciudades durante la Edad Media. España prohibió a sus colonias comerciar con Gran Bretaña en los albores de la Revolución Industrial. Los hacendados algodoneros del Sur prohibían que sus esclavos migraran a las fábricas del Norte de los Estados Unidos.
 
-Además de las jerarquías, las comunidades también pueden imponer cápsides para evitar su [[desplazamiento de comunidades|desplazamiento]]. Por ejemplo, varias sectas y grupos fundamentalistas disuaden participar de otros grupos o amistades.
+Además de las jerarquías, las comunidades también pueden imponer cápsides para evitar su [[desplazamiento]]. Por ejemplo, varias sectas y grupos fundamentalistas disuaden participar de otros grupos o amistades.
