@@ -5,9 +5,13 @@ draft: true
 
 1. Emociones de reconocimiento: admiración, desprecio (convergencia de reconocimiento), envidia y lástima (dinámica de tejidos detrás de la envidia y la lástima)
 2. Mito discursivista
+3. Escalada armamentista, red queen dynamics
 
 
-
+en torno al sistema de rangos
+- Alianzas para cuidar el rango
+- Conviene dejar todo por subir o por no bajar (es una entrada alternativa quizás, o no?)
+- Diferencia entre rangos y jerarquías
 
 ----
 
