@@ -9,10 +9,11 @@ draft: true
 
 
 en torno al sistema de rangos
-- Alianzas para cuidar el rango
 - Conviene dejar todo por subir o por no bajar (es una entrada alternativa quizás, o no?)
-- Diferencia entre rangos y jerarquías
 
+
+---
+- Primacía de la mayoría en el reconocimiento 
 ----
 
 - Desplazamiento (en general, no sólo de comunidades)
