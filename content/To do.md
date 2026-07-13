@@ -11,12 +11,12 @@ draft: true
 en torno al sistema de rangos
 - Conviene dejar todo por subir o por no bajar (es una entrada alternativa quizás, o no?)
 
-
+- Amistad como crédito de reciprocidad
+- Popularidad como crédito de admiración? o lealtad?
 ---
 - Primacía de la mayoría en el reconocimiento 
 ----
 
-- Desplazamiento (en general, no sólo de comunidades)
 - Caída de códigos morales
 	- Sumar a lo de "esclavitud" un comentario sobre que los códigos morales ganan sobre los económicos
 - Heroísmo y tabú
@@ -24,9 +24,9 @@ en torno al sistema de rangos
 
 A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages 
 
-- Sistema básico = tejido de cooperación (explícito, que son circulares, que se sostienen a sí mismos, y que sostienen a todos los demás)
+- Sistema básico = tejido de cooperación (explícito, que son circulares, que se sostienen a sí mismos, y que sostienen a todos los demás) -> Cómo permite distinguir las reglas "de papel" de las reglas "de verdad"
 - Las jerarquías resuelven externalidades (siempre que convenga al jerarca)
- - La reciprocidad no escala
+ - La reciprocidad no escala (y el mercado escala la reiprocidad)
  - La versión explícita de un tejido no nos hace sentir bien emocionalmente.
 
 - Sistemas básicos (y subsidiarios)-> ejemplo
