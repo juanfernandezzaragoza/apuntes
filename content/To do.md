@@ -18,7 +18,7 @@ en torno al sistema de rangos
 ----
 
 - Caída de códigos morales
-	- Sumar a lo de "esclavitud" un comentario sobre que los códigos morales ganan sobre los económicos
+	- Sumar a lo de "esclavitud" un comentario sobre que los códigos morales ganan sobre los económicos (acá quizás lo que quise decir fue que los incentivos económicos triunfan y moderan los códigos sostenidos e incluso reportados)
 - Heroísmo y tabú
 
 
