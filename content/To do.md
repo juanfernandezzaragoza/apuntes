@@ -4,8 +4,8 @@ draft: true
 ---
 
 1. Emociones de reconocimiento: admiración, desprecio (convergencia de reconocimiento), envidia y lástima (dinámica de tejidos detrás de la envidia y la lástima)
-2. Mito discursivista
-3. Escalada armamentista, red queen dynamics
+2. Eficiencia (profitability) en la economía prehistórica
+3. [[Mito discursivista]]
 
 
 en torno al sistema de rangos
