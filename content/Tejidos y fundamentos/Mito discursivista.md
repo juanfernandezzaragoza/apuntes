@@ -1,35 +1,23 @@
 ---
 Title: El mito discursivista
-draft: true
+draft: false
 ---
-El mito discursivista es la creencia errónea de que los argumentos pueden alterar significativamente las actitudes y emociones de una población.
+El mito discursivista es la creencia errónea de que los argumentos alteran las actitudes o emociones de una población.
 
-Emerge porque las actitudes tienden a coincidir con nuestros argumentos debido a que tienen una causa común, (explicación del sismógrafo). Esto genera una confusión.
+El mito nace porque las actitudes suelen [[racionalización|racionalizarse]] mediante argumentos, y porque los procesos [[Intuición y razón|intuitivos]] que determinan nuestra conducta son inconscientes. Subjetivamente, sentimos que el discurso tiene efectos causales, y pasamos por alto los factores más importantes.
 
-porque los factores que determinan la mayor parte de nuestra conducta son inconscientes (link a sistema 1, o razón / inutición), y después porque subjetivamente creemos que los argumentos determinan nuestras actitudes (link a racionalización) subjetivamente sentimos que el discurso tuvo efectos causales. 
+En realidad, nuestras actitudes no se adaptan a nuestras creencias o educación sino que, por el contrario, nuestras creencias se adaptan a nuestras actitudes. Las actitudes, en cambio, suelen obedecer la [[sistema de intermotivación|motivación social]].
 
+En la teoría, el mito ocurre cuando se trata a las poblaciones como sujetos racionales que deliberan o son afectados por argumentos. En la práctica, el mito se encarna cuando se intenta modificar las actitudes de una población mediante información y concientización en contra de sus estructuras de incentivos.
 
-En realidad, la heurística tiende a seguir nuestra motivación social y nuestros argumentos, razones y creencias luego siguen esa misma motivación (disonancia cognitiva) /)//// En realidad, nuestras actitudes no se adaptan a nuestras creencias sino que, por el contrario, nuestras creencias se adaptan a nuestras actitudes.
+En general, los cambios sociales que coinciden con debates y publicaciones ideológicas no son causadas por tales debates. En realidad, los cambios en las estructuras de motivación generan cambios en el comportamiento de las poblaciones, que luego son racionalizados mediante la adopción de nuevos discursos. 
 
-El mito discursivista ocurre cuando se analizan las sociedades como si los grupos fueran sujetos racionales que deliberan o son afectados por argumentos, en lugar de analizarlas desde sus estructuras de intermotivación (linik)
+Para ilustrarlo con una metáfora, el discurso no rema sino que "surfea".
 
-En la práctica, se encarna cuando se intenta cambiar las actitudes de un sistema social mediante la concientización
+Ejemplos del mito discursivista:
+1. Estajanovismo: En la URSS, en los años 30, hubo un aumento de productividad atribuido al auge de la "conciencia socialista". El éxito de la campaña de concientización estuvo supeditado a la introducción del salario proporcional a la productividad del trabajador.
+2. Desamparo por cambio de creencias: Desde la revolución industrial, las personas se alejaron de creencias religiosas, y al mismo tiempo aumentó la sensación de desamparo. La tradición filosófica atribuyó el desamparo al cambio en las creencias. En realidad, tanto el desamparo como el abandono de ideas religiosas sostenidas por comunidades respondía al [[desplazamiento de comunidades]] producto del desarrollo tecnológico.
 
-
-
-
-
-
-
-
-Cosas que no son mitos:
-1. Chisme, Orden de un jerarca (cuando seguir el tejido está sostenido por el tejido)
-2. Instrucciones para construir un cargador solar barato (que no existen)
-3. Técnica de estudio que si la seguís durante tres semanas te va mucho mejor (que no sé si existe)
-
-
-Ejemplos:
-1. Estajanovismo
-2. Feminismos de la segunda y tercera olas 
-3. Violencia entre grupos sociales
-4. Incendiar un ...
+Ejemplos de discurso que sí modera actitudes:
+1. Las ordenes de un jerarca son discurso que modera actitudes. El chisme también. En ambos casos, el discurso funciona porque encarna un [[tejido de cooperación]].
+2. Las instrucciones para construir un puente o una nave espacial son discurso que modera actitudes. En ambos casos, el discurso ayuda a resolver un problema que los individuos ya están motivados en resolver, gracias a algún tejido de cooperación que lo motiva.
