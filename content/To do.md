@@ -2,10 +2,24 @@
 title: to do
 draft: true
 ---
+----
 
-1. Emociones de reconocimiento: admiración, desprecio (convergencia de reconocimiento), envidia y lástima (dinámica de tejidos detrás de la envidia y la lástima)
+
+Esto es porque, cuando el reconocimiento funciona
+
+
+La admiración promueve favorecer a quienes la comunidad valora, mientras que el desprecio promueve desfavorecer a quienes la comunidad rechaza. La envidia y la lástima, por su parte, nos inclinan a mitigar reacciones inmerecidas (es decir, a reducir la valoración o el rechazo, respectivamente, hacia quienes no lo merecen tanto).
+
+1. Es adaptativo premiar a quienes la comunidad aprecia, y a quienes la comunidad desprecia. Además, es adaptativo premiar a quienes valoran a terceros igual que el resto de la comunidad, y penalizarlos cuando valoran distinto a la comunidad.
+2. También, cuando se [[recompensar desvíos favorables|compensar el costo de los desvíos]], vale la pena.
+
+----
+1. [[Emociones de reconocimiento]]: admiración, desprecio (convergencia de reconocimiento), envidia y lástima (dinámica de tejidos detrás de la envidia y la lástima)
+	1. Admiración
+	2. Desprecio
+	3. Envidia 
+	4. Lástima
 2. Eficiencia (profitability) en la economía prehistórica
-3. [[Mito discursivista]]
 
 
 en torno al sistema de rangos

@@ -2,7 +2,7 @@
 Title: Cmpetencia de tejidos
 draft: false
 ---
-Los [[tejido de cooperación|tejidos de cooperación]] [[competencia por la motivación|compiten por la motivación de]] sus participantes a medida que la [[desarrollo tecnológico|tecnología]] se desarrolla. Esto tiene una serie de tendencias generales.
+Los [[tejido de cooperación|tejidos de cooperación]] [[competencia por la motivación|compiten por la motivación de]] sus participantes a medida que la [[desarrollo tecnológico|tecnología]] se desarrolla. Esta dinámica sigue patrones específicos.
 
 A medida que la humanidad descubre manera de aprovechar rendimientos a escala hasta escalas mayores, las [[Organización|organizaciones]] tienden a crecer. Para crecer, toman participantes de otras organizaciones. Dado que las [[las jerarquías escalan]] y [[el reconocimiento no escala]], el crecimiento de las organizaciones implica el crecimiento de las jerarquías.
 

@@ -13,6 +13,6 @@ Dentro de el homeostato de la cooperación, cada emoción:
 
 Las emociones de cooperación se organizan en cuatro subsistemas: 
 1. [[Emociones de reciprocidad]]
-2. Emociones de reconocimiento
+2. [[Emociones de reconocimiento]]
 3. Emociones para contribuir a la comunidad
 4. Emociones para preservar el [[sistema de rangos|rango]]
