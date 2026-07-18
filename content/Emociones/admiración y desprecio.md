@@ -11,4 +11,4 @@ Dado que, a diferencia de lo que sucede con la [[emociones de reciprocidad|grati
 2. Nos agrada que terceros aprecien o desprecien a las mismas personas que nosotros.
 3. Nos ofende que terceros aprecien a quien despreciamos o desprecien a quien apreciamos (esto es porque, en contextos de reconocimiento, faltar a penalizar o premiar adecuadamente es una falta penalizable, y penalizar a quien incurre en tales faltas es adaptativo, porque no hacerlo es una falta penalizable).
 
-El sistema resultante es calibrado por la envidia y la lástima.
+El sistema resultante es calibrado por la [[envidia y lástima|envidia y la lástima]].
