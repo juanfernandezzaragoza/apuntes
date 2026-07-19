@@ -3,7 +3,7 @@ title: to do
 draft: true
 ---
 ----
-
+1. La valoración comunitaria y la eficiencia en ella. -> Motivación (subsistemas)
 
 
 ----
@@ -12,7 +12,7 @@ draft: true
 	2. Desprecio
 	3. Envidia 
 	4. Lástima
-2. Eficiencia (profitability) en la economía prehistórica
+2. Eficiencia (profitability) en la economía prehistórica. [[Optimizar esfuerzos]]
 
 
 en torno al sistema de rangos
