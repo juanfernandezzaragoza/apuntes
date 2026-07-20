@@ -2,18 +2,32 @@
 title: to do
 draft: true
 ---
+
+1. Emociones de rangos
+2. Emociones de motivación
+3. Sobre el marxismo
+	1. Estructura-superestructura demasiado lineal
+	2. Teoría de clases demasiado lineal (no considera tejido de cooperación)
+	3. La noción de "sistema económico" debe centrarse en el tejido de cooperación
+4. Menú de distorsiones de las emociones (parecido al menú que armé hace algún tiempo sobre la historia de los sistemas económicos)
+5. Menú sobre juegos donde el ganador se lleva todo
+
+
+
+6. Temas de capurnética? Crecer una solución en lugar de construirla?
+7. Pérdida social asociada a los efectos de red
+	1. Cuánto se quedan los jerarcas
+	2. cuánto destruyen de otras redes
+	3. Cuánto valor trae una organización?
+------
+1. Impacto de distintos efectos o tendencias en crisis sociales
+	1. Crisis ambiental
+	2. Crisis de IA
+	3. Crisis emocional
+2. Impacto de juegos donde el ganador se lleva todo en distintas tendencias emocionales
+
 ----
 1. La valoración comunitaria y la eficiencia en ella. -> Motivación (subsistemas)
-
-
-----
-1. [[Emociones de reconocimiento]]: admiración, desprecio (convergencia de reconocimiento), envidia y lástima (dinámica de tejidos detrás de la envidia y la lástima)
-	1. Admiración
-	2. Desprecio
-	3. Envidia 
-	4. Lástima
-2. Eficiencia (profitability) en la economía prehistórica. [[Optimizar esfuerzos]]
-
 
 en torno al sistema de rangos
 - Conviene dejar todo por subir o por no bajar (es una entrada alternativa quizás, o no?)
@@ -33,7 +47,6 @@ A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+n
 
 - Sistema básico = tejido de cooperación (explícito, que son circulares, que se sostienen a sí mismos, y que sostienen a todos los demás) -> Cómo permite distinguir las reglas "de papel" de las reglas "de verdad"
 - Las jerarquías resuelven externalidades (siempre que convenga al jerarca)
- - La reciprocidad no escala (y el mercado escala la reiprocidad)
  - La versión explícita de un tejido no nos hace sentir bien emocionalmente.
 
 - Sistemas básicos (y subsidiarios)-> ejemplo

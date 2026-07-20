@@ -12,7 +12,7 @@ En la teoría, el mito ocurre cuando se trata a las poblaciones como sujetos rac
 
 En general, los cambios sociales que coinciden con debates y publicaciones ideológicas no son causadas por tales debates. En realidad, los cambios en las estructuras de motivación generan cambios en el comportamiento de las poblaciones, que luego son racionalizados mediante la adopción de nuevos discursos. 
 
-Para ilustrarlo con una metáfora, el discurso no rema sino que "surfea".
+Para ilustrarlo con una metáfora, el discurso no _rema_ sino que _surfea_.
 
 Ejemplos del mito discursivista:
 1. Estajanovismo: En la URSS, en los años 30, hubo un aumento de productividad atribuido al auge de la "conciencia socialista". El éxito de la campaña de concientización estuvo supeditado a la introducción del salario proporcional a la productividad del trabajador.
