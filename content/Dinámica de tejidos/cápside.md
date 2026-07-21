@@ -2,7 +2,7 @@
 title: Cápside
 draft: false
 ---
-Las cápsides son restricciones de la libertad impuestas por [[Organización|organizaciones]] débiles para evitar ser desplazadas. Eventualmente las restricciones son [[ecolisis|levantadas]] por organizaciones poderosas que necesitan desplazar a las organizaciones débiles para seguir creciendo.
+Las cápsides son restricciones de la libertad impuestas por [[organización|organizaciones]] débiles para evitar ser desplazadas. Eventualmente las restricciones son [[ecolisis|levantadas]] por organizaciones poderosas que necesitan desplazar a las organizaciones débiles para seguir creciendo.
 
 Las cápsides son la forma general del esclavismo. En términos estrictamente económicos, cabe la pregunta de [[por qué no todos los jerarcas son esclavistas]]. 
 
@@ -12,7 +12,7 @@ El término "cápside" proviene de la biología, donde denomina la "pared" de lo
 
 A medida que se [[desarrollo tecnológico|desarrolla la tecnología]] y se [[amplificación de asimetrías|amplifica]] la asimetría productiva entre organizaciones, las organizaciones débiles pueden ofrecer cada vez menos recompensas, y las organizaciones poderosas pueden ofrecer recompensas mayores cada vez.
 
-Esta tendencia, por sí misma, llevaría a la rápida desaparición de los tejidos débiles, incapaces de [[Competencia de tejidos|competir]] contra los tejidos poderosos.
+Esta tendencia, por sí misma, llevaría a la rápida desaparición de los tejidos débiles, incapaces de [[competencia de tejidos|competir]] contra los tejidos poderosos.
 
 Para compensar las recompensas mayores que ofrecen las organizaciones prósperas, los tejidos débiles imponen penalizaciones a quienes participan de otras organizaciones. En la práctica, estas penalizaciones funcionan como prohibiciones a participar de las organizaciones poderosas.
 

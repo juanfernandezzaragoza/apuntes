@@ -4,7 +4,7 @@ draft: false
 ---
 El mito discursivista es la creencia errónea de que los argumentos alteran las actitudes o emociones de una población.
 
-El mito nace porque las actitudes suelen [[racionalización|racionalizarse]] mediante argumentos, y porque los procesos [[Intuición y razón|intuitivos]] que determinan nuestra conducta son inconscientes. Subjetivamente, sentimos que el discurso tiene efectos causales, y pasamos por alto los factores más importantes.
+El mito nace porque las actitudes suelen [[racionalización|racionalizarse]] mediante argumentos, y porque los procesos [[intuición y razón|intuitivos]] que determinan nuestra conducta son inconscientes. Subjetivamente, sentimos que el discurso tiene efectos causales, y pasamos por alto los factores más importantes.
 
 En realidad, nuestras actitudes no se adaptan a nuestras creencias o educación sino que, por el contrario, nuestras creencias se adaptan a nuestras actitudes. Las actitudes, en cambio, suelen obedecer la [[sistema de intermotivación|motivación social]].
 
@@ -12,9 +12,7 @@ En la teoría, el mito ocurre cuando se trata a las poblaciones como sujetos rac
 
 En general, los cambios sociales que coinciden con debates y publicaciones ideológicas no son causadas por tales debates. En realidad, los cambios en las estructuras de motivación generan cambios en el comportamiento de las poblaciones, que luego son racionalizados mediante la adopción de nuevos discursos. 
 
-Para ilustrarlo con una metáfora, el discurso no _rema_ sino que _surfea_.
-
-Ejemplos del mito discursivista:
+Para ilustrarlo con una metáfora, el discurso no _rema_ con su propia fuerza sino que _surfea_ las fuerzas que subyacen al sistema socal. Ejemplos del mito discursivista:
 1. Estajanovismo: En la URSS, en los años 30, hubo un aumento de productividad atribuido al auge de la "conciencia socialista". El éxito de la campaña de concientización estuvo supeditado a la introducción del salario proporcional a la productividad del trabajador.
 2. Desamparo por cambio de creencias: Desde la revolución industrial, las personas se alejaron de creencias religiosas, y al mismo tiempo aumentó la sensación de desamparo. La tradición filosófica atribuyó el desamparo al cambio en las creencias. En realidad, tanto el desamparo como el abandono de ideas religiosas sostenidas por comunidades respondía al [[desplazamiento de comunidades]] producto del desarrollo tecnológico.
 

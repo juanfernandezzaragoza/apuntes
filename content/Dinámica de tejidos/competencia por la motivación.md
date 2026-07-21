@@ -2,7 +2,7 @@
 title: Competencia de tejidos
 draft: false
 ---
-La actividad de los individuos depende de la suma de recompensas y penalizaciones de todas las [[Organización|organizaciones]] en que participa.
+La actividad de los individuos depende de la suma de recompensas y penalizaciones de todas las [[organización|organizaciones]] en que participa.
 
 Esto implica que el poder de cada [[tejido de cooperación]] sobre sus participantes depende no sólo de las recompensas y penalizaciones que ese tejido es capaz de proveer, sino también de las recompensas y penalizaciones que otros tejidos pueden imponer.
 

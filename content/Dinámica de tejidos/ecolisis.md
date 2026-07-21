@@ -2,7 +2,7 @@
 title: Ecolisis
 draft: false
 ---
-En la [[Competencia de tejidos]], una vez que las [[Organización|organizaciones]] estancadas forman [[cápside|cápsides]] para sobrevivir a la [[amplificación de asimetrías]], eventualmente las jerarquías poderosas necesitan liberar a los participantes de las organizaciones estancadas para [[crecer o perecer|seguir creciendo]]. 
+En la [[competencia de tejidos]], una vez que las [[organización|organizaciones]] estancadas forman [[cápside|cápsides]] para sobrevivir a la [[amplificación de asimetrías]], eventualmente las jerarquías poderosas necesitan liberar a los participantes de las organizaciones estancadas para [[crecer o perecer|seguir creciendo]]. 
 
 El término "ecolisis" proviene de la biología. Se llama "lisis" a la ruptura de las membranas celulares. "Eco" viene del griego antiguo _oikos_, que designaba a las organizaciones productivas familiares, y da la raíz etimológica a "economía".
 ### Dinámica de las ecolisis

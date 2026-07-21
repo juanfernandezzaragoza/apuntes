@@ -13,5 +13,5 @@ Si tenés preguntas o comentarios, no dudes en contactarme.
 Podés empezar por acá:
 - [[Tejido de cooperación]]
 - [[Clasificación de sistemas]]
-- [[Competencia de tejidos]]
+- [[competencia de tejidos]]
 

@@ -12,10 +12,10 @@ draft: true
 4. Menú de distorsiones de las emociones (parecido al menú que armé hace algún tiempo sobre la historia de los sistemas económicos)
 5. Menú sobre juegos donde el ganador se lleva todo
 
+6. racionalización de cambios en tejidos como cambios en sistemas sociales
 
-
-6. Temas de capurnética? Crecer una solución en lugar de construirla?
-7. Pérdida social asociada a los efectos de red
+7. Temas de capurnética? Crecer una solución en lugar de construirla?
+8. Pérdida social asociada a los efectos de red
 	1. Cuánto se quedan los jerarcas
 	2. cuánto destruyen de otras redes
 	3. Cuánto valor trae una organización?
@@ -60,6 +60,9 @@ A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+n
 	- Qué significa la escala de la cooperación
 - Correlatos emocionales de sistemas de cooperación
 
+
+
+[ ] Costo al crowding
 [x] dilema central
 [x] por qué jerarquías son grupales
 [x] Por qué reconocimiento no escala
