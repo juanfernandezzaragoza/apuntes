@@ -2,7 +2,7 @@
 title: Emociones de reciprocidad
 draft: false
 ---
-La [[reciprocidad]] se implementa emocionalmente mediante la gratitud, el enfado y la culpa.
+La [[reciprocidad]] se [[emociones de cooperación|implementa emocionalmente]] mediante la gratitud, el enfado y la culpa.
 
 La gratitud siente que alguien nos favoreció y nos impulsa a favorecerlo de vuelta. Es una emoción placentera porque percibe un contexto favorable.
 

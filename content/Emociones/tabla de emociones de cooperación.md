@@ -13,7 +13,7 @@ Las siguientes [[emociones de cooperación|emociones]] implementan y navegan tej
 |                                                             | Desprecio    | Externalidad negativa           | Penalizar                                        | :(      |
 |                                                             | Envidia      | Admiración inmerecida           | Recalibrar                                       | :(      |
 |                                                             | Lástima      | Desprecio inmerecido            | Recalibrar                                       | :(      |
-| Navegar reconocimiento                                      | Aburrimiento | Actividad bajo capacidades      | Recalibrar                                       | :(      |
+| [[emociones de motivación\|Navegar reconocimiento]]         | Aburrimiento | Actividad bajo capacidades      | Recalibrar                                       | :(      |
 |                                                             | Frustración  | Actividad sobre capacidades     | Recalibrar                                       | :(      |
 |                                                             | Motivación   | Actividad desafiante reconocida | Continuar                                        | :)      |
 | Navegar rangos                                              | Estrés       | Desplazamiento hacia abajo      | Violentar a quien sube (asume socavamiento)      | :(      |
