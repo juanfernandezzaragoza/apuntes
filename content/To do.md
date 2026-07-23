@@ -4,18 +4,22 @@ draft: true
 ---
 
 1. Emociones de rangos
-2. Emociones de motivación
-3. Sobre el marxismo
+	1. Estrés 
+	2. Depresión
+	3. Ansiedad
+	4. Felicidad
+	5. Entusiasmo
+2. Sobre el marxismo
 	1. Estructura-superestructura demasiado lineal
 	2. Teoría de clases demasiado lineal (no considera tejido de cooperación)
 	3. La noción de "sistema económico" debe centrarse en el tejido de cooperación
-4. Menú de distorsiones de las emociones (parecido al menú que armé hace algún tiempo sobre la historia de los sistemas económicos)
-5. Menú sobre juegos donde el ganador se lleva todo
+3. Menú de distorsiones de las emociones (parecido al menú que armé hace algún tiempo sobre la historia de los sistemas económicos)
+4. Menú sobre juegos donde el ganador se lleva todo
 
-6. racionalización de cambios en tejidos como cambios en sistemas sociales
+5. racionalización de cambios en tejidos como cambios en sistemas sociales
 
-7. Temas de capurnética? Crecer una solución en lugar de construirla?
-8. Pérdida social asociada a los efectos de red
+6. Temas de capurnética? Crecer una solución en lugar de construirla?
+7. Pérdida social asociada a los efectos de red
 	1. Cuánto se quedan los jerarcas
 	2. cuánto destruyen de otras redes
 	3. Cuánto valor trae una organización?

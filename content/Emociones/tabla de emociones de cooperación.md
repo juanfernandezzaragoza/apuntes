@@ -16,7 +16,7 @@ Las siguientes [[emociones de cooperación|emociones]] implementan y navegan tej
 | [[emociones de motivación\|Navegar reconocimiento]]         | Aburrimiento | Actividad bajo capacidades      | Recalibrar                                       | :(      |
 |                                                             | Frustración  | Actividad sobre capacidades     | Recalibrar                                       | :(      |
 |                                                             | Motivación   | Actividad desafiante reconocida | Continuar                                        | :)      |
-| Navegar rangos                                              | Estrés       | Desplazamiento hacia abajo      | Violentar a quien sube (asume socavamiento)      | :(      |
+| [[emociones de rangos\|Navegar rangos]]                     | Estrés       | Desplazamiento hacia abajo      | Violentar a quien sube (asume socavamiento)      | :(      |
 |                                                             | Depresión    | Posición desfavorable estable   | No estresar a los de arriba (señalizar no subir) | :(      |
 |                                                             | Ansiedad     | Posición desfavorable inestable | Protegerse del estrés                            | :(      |
 |                                                             | Entusiasmo   | Desplazamiento hacia arriba     | Subir más                                        | :)      |
