@@ -4,11 +4,10 @@ draft: true
 ---
 
 1. Emociones de rangos
-	1. Estrés 
-	2. Depresión
-	3. Ansiedad
-	4. Felicidad
-	5. Entusiasmo
+	1. Depresión
+	2. Ansiedad
+	3. Felicidad
+	4. Entusiasmo
 2. Sobre el marxismo
 	1. Estructura-superestructura demasiado lineal
 	2. Teoría de clases demasiado lineal (no considera tejido de cooperación)
