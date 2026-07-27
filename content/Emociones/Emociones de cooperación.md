@@ -2,7 +2,7 @@
 title: Emociones de cooperación
 draft: false
 ---
-Varias emociones forman un sistema adaptado para sostener y navegar los [[tejido de cooperación]] de [[escala de cooperación|escalas pequeñas]]. Si entendemos a ese sistema como un homeostato, busca preservar el equilibrio de la cooperación eficaz y constante con la comunidad y sus integrantes.
+Varias emociones forman un sistema adaptado para sostener y navegar los [[tejido de cooperación]] de [[escala de cooperación|escalas pequeñas]]. Si entendemos a ese sistema como un [[etostato|homeostato]], busca preservar el equilibrio de la cooperación eficaz y constante con la comunidad y sus integrantes.
 
 Dentro de el homeostato de la cooperación, cada emoción:
 1. Reconoce el estado de nuestra cooperación social.

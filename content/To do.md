@@ -5,7 +5,6 @@ draft: true
 
 1. Emociones de rangos
 	1. Felicidad
-	2. Entusiasmo
 2. Sobre el marxismo
 	1. Estructura-superestructura demasiado lineal
 	2. Teoría de clases demasiado lineal (no considera tejido de cooperación)
