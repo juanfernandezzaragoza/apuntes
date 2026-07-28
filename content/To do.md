@@ -2,7 +2,8 @@
 title: to do
 draft: true
 ---
-
+1. Extracción de excedentes por parte de jerarcas
+---
 1. Emociones de rangos
 	1. Felicidad
 2. Sobre el marxismo
@@ -25,6 +26,18 @@ draft: true
 	2. Crisis de IA
 	3. Crisis emocional
 2. Impacto de juegos donde el ganador se lleva todo en distintas tendencias emocionales
+-------
+Otros enfoques
+	Marxismo
+		clase social
+		estructura-superestructura
+		sistema económico
+	Psicoanálisis
+		pulsión de muerte
+		sexo como principal motivación > paradoja de la atención
+		superyo como sociedad
+		pulsión
+		torre = falo?
 
 ----
 1. La valoración comunitaria y la eficiencia en ella. -> Motivación (subsistemas)
