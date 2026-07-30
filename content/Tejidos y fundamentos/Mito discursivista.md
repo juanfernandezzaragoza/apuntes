@@ -2,7 +2,7 @@
 Title: El mito discursivista
 draft: false
 ---
-El mito discursivista es la creencia errónea de que los argumentos alteran las actitudes o emociones de una población.
+El mito discursivista es la creencia errónea de que los argumentos alteran las actitudes o emociones de una población. Es creer que el discurso transforma la realidad cuando verdaderamente la realidad transforma el discurso.
 
 El mito nace porque las actitudes suelen [[racionalización|racionalizarse]] mediante argumentos, y porque los procesos [[intuición y razón|intuitivos]] que determinan nuestra conducta son inconscientes. Subjetivamente, sentimos que el discurso tiene efectos causales, y pasamos por alto los factores más importantes.
 

@@ -3,6 +3,7 @@ title: to do
 draft: true
 ---
 1. Extracción de excedentes por parte de jerarcas
+2. El impacto de una acción (es la diferencia entre que lo hagas y que no lo hagas)
 ---
 1. Emociones de rangos
 	1. Felicidad
