@@ -4,6 +4,11 @@ draft: true
 ---
 1. Extracción de excedentes por parte de jerarcas
 2. El impacto de una acción (es la diferencia entre que lo hagas y que no lo hagas)
+
+
+3. Enumerar crisis
+4. Centralización del aprecio en redes digitales
+5. Coexistencia de múltiples comunidades
 ---
 1. Emociones de rangos
 	1. Felicidad

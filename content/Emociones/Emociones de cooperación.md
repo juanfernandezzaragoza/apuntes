@@ -9,7 +9,7 @@ Dentro de el homeostato de la cooperación, cada emoción:
 2. Si el estado es subóptimo, promueve acciones que restaurarían el equilibrio de cooperación eficaz.
 3. Genera un correlato subjetivo placentero o doloroso según si el estado reconocido es favorable o desfavorable en términos de cooperación.
 
- El enfoque basado en los tejidos es insuficiente para apreciar la riqueza y la variabilidad de cómo cada persona vive sus emociones, pero es una simplificación útil para entender la sociedad. Las generalizaciones sobre los individuos ayudan a entender fenómenos macroscópicos de las emociones a escala social, como por ejemplo las crisis actuales de salud mental. Estas crisis generales nacen porque nuestras emociones se adaptaron a tejidos de escalas pequeñas y sufren [[desajuste evolutivo|desajustes evolutivos]] en tejidos de grandes escalas. 
+ El enfoque basado en los tejidos es insuficiente para apreciar la riqueza y la variabilidad de cómo cada persona vive sus emociones, pero es una simplificación útil para entender la sociedad. Las generalizaciones sobre los individuos ayudan a entender fenómenos macroscópicos de las emociones a escala social, como por ejemplo las crisis actuales de salud mental. Estas crisis generales nacen porque nuestras emociones se adaptaron a tejidos de escalas pequeñas y sufren [[desajuste evolutivo|desajustes evolutivos]] cuando los tejidos para los que se adaptaron sufrieron [[distorsiones]]. 
 
 Las emociones de cooperación se organizan en cuatro subsistemas: 
 1. [[Emociones de reciprocidad]]
