@@ -6,4 +6,4 @@ Las [[emociones de cooperación]] se adaptaron a comunidades pequeñas regidas p
 
 Las dos distorsiones fundamentales que sufrió la humanidad fueron la [[crecer o perecer|hipertrofia de las jerarquías]] y el [[desplazamiento de comunidades|desgarro de comunidades]]. 
 
-Esto tuvo efectos derivados como la coexistencia de múltiples comunidades en una misma sociedad o la centralización del aprecio acelerada por las comunicaciones digitales.
+Esto tuvo efectos derivados como la coexistencia de múltiples comunidades en una misma sociedad o la [[centralización del aprecio]] acelerada por las comunicaciones digitales.
