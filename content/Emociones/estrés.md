@@ -8,4 +8,6 @@ Esta definición del estrés es más específica que asociar el estrés a la res
 
 En una comunidad pequeña, si perdemos nuestro lugar, es porque alguien que estaba abajo nos lo está quitando (si bajamos un escalón en una escalera donde todos los escalones están ocupados, es porque al menos una persona que estaba abajo nos superó). Esto no necesariamente sucede en la sociedad actual. Sin embargo, cuando era así, era adaptativo agredir a los de abajo para mostrar dominancia y disuadir que desafíen la propia posición.
 
-El estrés activa el sistema simpático (aumenta los ritmos cardíaco y respiratorio, reduce el sueño y la digestión, y prepara el cuerpo para la acción). El estrés lleva a agredir a los de abajo, no a los de arriba, y hacerlo reduce sistemáticamente los síntomas del estrés, no sólo en humanos sino también en otros primates.
+El estrés activa el sistema simpático (aumenta los ritmos cardíaco y respiratorio, reduce el sueño y la digestión, y prepara el cuerpo para la acción). El estrés lleva a agredir a los de abajo, no a los de arriba, y hacerlo reduce sistemáticamente los síntomas del estrés, no sólo en humanos sino también en otros primates. 
+
+El estrés nos concentra en pelear, y reduce habilidades cognitivas como el pensamiento lógico o abstracto.
