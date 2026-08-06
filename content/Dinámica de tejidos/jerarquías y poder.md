@@ -11,6 +11,6 @@ Para los subordinados, es conveniente seguir las órdenes del jerarca siempre qu
 2. El costo de la penalización por ignorar la acción ordenada. La penalización puede ser positiva o negativa.
 3. Las recompensas y penalizaciones efectuadas por otros tejidos de cooperación, que interfieren en el cálculo.
 
-Dado que la cooperación grupal suele ser de suma positiva, los jerarcas pueden extraer excedentes. 
+Dado que la cooperación grupal suele ser de suma positiva, los jerarcas pueden [[extracción de excedentes|extraer excedentes]]. 
 
 Existen [[equilibrio estable|equilibrios estables]] con excedentes arbitrariamente grandes y bienestar de los subordinados arbitrariamente pequeños. 
