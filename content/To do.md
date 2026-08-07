@@ -12,6 +12,10 @@ draft: true
 5. Coexistencia de múltiples comunidades
 
 ---
+
+sistema básico vs subsidiario (no sé dónde tengo hecha esta distinción pero es importante)
+
+---
 1. Efectos de red
 2. Rendimientos de escala
 ---
