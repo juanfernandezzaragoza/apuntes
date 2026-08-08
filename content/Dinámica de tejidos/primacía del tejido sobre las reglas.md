@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Primacía del tejido sobre la regla
+title: Primacía del tejido sobre las reglas
 ---
 Cuando un [[tejido de cooperación|tejido]] de cooperación [[nivel de cooperación|grupal]] sostiene reglas, el tejido determina si las reglas se cumplen o no.
 

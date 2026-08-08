@@ -3,13 +3,15 @@ title: to do
 draft: true
 ---
 
-1. Extracción de excedentes por parte de jerarcas
-2. El impacto de una acción (es la diferencia entre que lo hagas y que no lo hagas)
+1. El impacto de una acción (es la diferencia entre que lo hagas y que no lo hagas)
 
 
-3. Enumerar crisis
-4. Centralización del aprecio en redes digitales
-5. Coexistencia de múltiples comunidades
+2. Enumerar crisis
+3. Centralización del aprecio en redes digitales
+4. Coexistencia de múltiples comunidades
+
+---
+5. Idea disruptiva (linkearlo con el impacto de las acciones) -> las ideas disruptivas tienen alto impacto
 
 ---
 
