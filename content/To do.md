@@ -3,19 +3,25 @@ title: to do
 draft: true
 ---
 
-1. El impacto de una acción (es la diferencia entre que lo hagas y que no lo hagas)
+
 
 
 2. Enumerar crisis
-3. Centralización del aprecio en redes digitales
-4. Coexistencia de múltiples comunidades
+3. Coexistencia de múltiples comunidades (HECHO)
+	1. Falta explicar el conflicto de la motivación (x ej. familia de doctores y la banda, amigos del club de teatro y del equipo de basquetbol)
 
 ---
 5. Idea disruptiva (linkearlo con el impacto de las acciones) -> las ideas disruptivas tienen alto impacto
 
+----
+
+Introducir el término "desgarro" para hablar del desplazamiento de tejidos.
+
 ---
 
 sistema básico vs subsidiario (no sé dónde tengo hecha esta distinción pero es importante)
+
+---
 
 ---
 1. Efectos de red
@@ -30,10 +36,11 @@ sistema básico vs subsidiario (no sé dónde tengo hecha esta distinción pero 
 3. Menú de distorsiones de las emociones (parecido al menú que armé hace algún tiempo sobre la historia de los sistemas económicos)
 4. Menú sobre juegos donde el ganador se lleva todo
 
-5. racionalización de cambios en tejidos como cambios en sistemas sociales
+5. racionalización de cambios en tejidos como cambios en sistemas sociales (y una lista de ellos?)
+	1. Los celulares y las redes facilitan la infidelidad -> se racionaliza con poliamor
 
-6. Temas de capurnética? Crecer una solución en lugar de construirla?
-7. Pérdida social asociada a los efectos de red
+7. Temas de capurnética? Crecer una solución en lugar de construirla?
+8. Pérdida social asociada a los efectos de red
 	1. Cuánto se quedan los jerarcas
 	2. cuánto destruyen de otras redes
 	3. Cuánto valor trae una organización?
