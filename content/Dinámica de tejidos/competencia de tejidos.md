@@ -4,7 +4,7 @@ draft: false
 ---
 Los [[tejido de cooperación|tejidos de cooperación]] [[competencia por la motivación|compiten por la motivación de]] sus participantes a medida que la [[desarrollo tecnológico|tecnología]] se desarrolla. Esta dinámica sigue patrones específicos.
 
-A medida que la humanidad descubre manera de aprovechar rendimientos a escala hasta escalas mayores, las [[organización|organizaciones]] tienden a crecer. Para crecer, toman participantes de otras organizaciones. Dado que las [[las jerarquías escalan]] y [[el reconocimiento no escala]], el crecimiento de las organizaciones implica el crecimiento de las jerarquías.
+A medida que la humanidad descubre manera de aprovechar [[rendimientos de escala]] hasta escalas mayores, las [[organización|organizaciones]] tienden a crecer. Para crecer, toman participantes de otras organizaciones. Dado que las [[las jerarquías escalan]] y [[el reconocimiento no escala]], el crecimiento de las organizaciones implica el crecimiento de las jerarquías.
 
 Las diferencias de poder se amplifican porque los tejidos más poderosos adquieren mayor capacidad de crecer y los tejidos más débiles pierden capacidad de crecer. Esto genera una dinámica de [[crecer o perecer]].
 
