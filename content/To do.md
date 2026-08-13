@@ -3,10 +3,18 @@ title: to do
 draft: true
 ---
 ----
+sistema básico vs subsidiario (no sé dónde tengo hecha esta distinción pero es importante) -> profundizar por qué es importante => tejido de cooperación usa el término "básico" sin referir o linkear nada más
+1. Primacía del sistema fundamental sobre las reglas
+2. Todo tiene un sistema fundamental
+3. Estabilidad interna - competencia entre sí -> la dinámica de competencia entre tejidos sigue patrones específicos
+
+
+---
 
 A partir de los efectos de red -> pérdida de valor social? por desplazar otros tejidos (idea de Thiel y los monopolios)
 	-> Decir que como los efectos de red muestran lo que pasa en cámara rápida, eso es el proceso acelerado de lo que pasa con la sociedad.
----- 
+-----
+
 Des-duplicar los efectos de red! 
 Y asegurarse en el futuro de que no duplico nada.
 
@@ -18,8 +26,7 @@ Y asegurarse en el futuro de que no duplico nada.
 
 ---
 5. Idea disruptiva (linkearlo con el impacto de las acciones) -> las ideas disruptivas tienen alto impacto
-6. El aire y la madera del tronco
-7. Alan Kay: la simplicidad se construye complejizando un poquito el bloque (elipses)
+6. Alan Kay: la simplicidad se construye complejizando un poquito el bloque (elipses)
 
 ----
 
@@ -27,11 +34,8 @@ Introducir el término "desgarro" para hablar del desplazamiento de tejidos.
 
 ---
 
-sistema básico vs subsidiario (no sé dónde tengo hecha esta distinción pero es importante) -> profundizar por qué es importante
-1. Primacía del sistema fundamental sobre las reglas
-2. Todo tiene un sistema fundamental
-3. Estabilidad interna - competencia entre sí -> la dinámica de competencia entre tejidos sigue patrones específicos
-4. 
+1. Revoluciones como procesos expoonenciales
+2. La economía como algo que se acelera (tipo no es solo dar un pasito en una dirección sino ir cada vez más rápido, por eso un cambio tan chiquito impactaría tanto) -> de hecho eso sucedía en las pequeñas comunidades, cambiaba muchísimo
 
 ---
 
@@ -40,7 +44,6 @@ sistema básico vs subsidiario (no sé dónde tengo hecha esta distinción pero 
 2. Efecto lock-in? (vinculado a efectos de red y rendimientos de escala)
 ---
 1. Emociones de rangos
-	1. Felicidad
 2. Sobre el marxismo
 	1. Estructura-superestructura demasiado lineal
 	2. Teoría de clases demasiado lineal (no considera tejido de cooperación)
