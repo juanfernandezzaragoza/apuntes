@@ -28,4 +28,4 @@ graph TD
     B --> B2
 ```
 
-Estas estructuras piramidales pueden ser arbitrariamente grandes. Existen límites a la escala, dados por las tecnologías de comunicaciones, de planificación y de rendimientos a la escala, pero no son límites intrínsecos de las jerarquías. En otras palabras, esos límites pueden moverse con el tiempo para dar lugar a jerarquías cada vez mayores.
+Estas estructuras piramidales pueden ser arbitrariamente grandes. Existen límites a la escala, dados por las tecnologías de comunicación y planificación y por los [[rendimientos de escala]], pero no son límites intrínsecos de las jerarquías. En otras palabras, esos límites pueden moverse con el tiempo para dar lugar a jerarquías cada vez mayores.

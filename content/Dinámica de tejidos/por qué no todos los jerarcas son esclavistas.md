@@ -1,5 +1,5 @@
 ---
-Title: Por qué no todos los jerarcas son esclavistas
+title: Por qué no todos los jerarcas son esclavistas
 draft: false
 ---
 Existiendo la [[cápside|esclavitud]], una pregunta relevante es por qué no todas las [[organización|organizaciones]] son esclavistas, desde una perspectiva estrictamente económica y no moral. 
@@ -19,4 +19,4 @@ Por eso, a las organizaciones débiles les conviene ser opresivas y a las organi
 
 Por otra parte, incluso para las organizaciones débiles, ser opresivo es una [[externalidad]] negativa entre las organizaciones, dado que preserva la productividad de la propia organización pero limita el crecimiento de otras organizaciones. Si existe alguna estructura de [[nivel de cooperación|cooperación grupal]] de [[escala de cooperación|gran escala]], es probable que esta penalice la opresión para disuadir la externalidad negativa.
 
-Es común dar por sentado que no exista la esclavitud, pero los grandes saltos tecnológicos generan [[amplificación de asimetrías|asimetrías productivas]] e incentivan a los jerarcas menos productivos a tomar medidas desesperadamente crueles para preservar su poder.
+Es común dar por sentado que la esclavitud no volverá, pero los grandes saltos tecnológicos generan [[amplificación de asimetrías|asimetrías productivas]] e incentivan a los jerarcas menos productivos a tomar medidas desesperadamente crueles para preservar su poder.

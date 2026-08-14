@@ -1,7 +1,7 @@
 ---
-Title: Valores comunitarios
-Draft: false
+title: Valores comunitarios
+draft: false
 ---
-Los valores de una [[reconocimiento|comunidad]] son las penalizaciones y premios a los cuales [[convergencia de reconocimiento|converge]] para con diversas acciones. 
+Los valores de una [[reconocimiento|comunidad]] son las penalizaciones y premios a los que [[convergencia de reconocimiento|converge]] frente a las distintas acciones. 
 
 Como seguir e imponer las reglas es adaptativo, los individuos tienden a [[racionalización|internalizar]] los valores de sus comunidades.

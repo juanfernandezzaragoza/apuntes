@@ -11,7 +11,7 @@ En la práctica, cuando hablamos de externalidades, solemos referirnos específi
 
 Incendiar mi barrio tiene externalidades negativas, pero también me perjudica a mí, así que nunca lo haría. En cambio, tirar basura al río tiene externalidades negativas pero podría abaratarme costos. Las externalidades negativas se vuelven un problema cuando la acción es conveniente para quien la lleva a cabo.
 
-Además, respirar tiene un beneficio enorme para mí, pero técnicamente disminuye el oxígeno en la atmósfera y aumenta los gases de efecto invernadero (al menos en grado mínimo), lo cual perjudica (mínimamente) al resto de la humanidad. Aunque respirar tenga externalidades negativas, estas son tanto menores que el beneficio de respirar, que sería netamente beneficioso que todos respiremos. En cambio, si todos contaminan el río, sería netamente perjudicial para la comunidad.
+Además, respirar tiene un beneficio enorme para mí, pero técnicamente disminuye el oxígeno en la atmósfera y aumenta los gases de efecto invernadero (al menos en grado mínimo), lo cual perjudica (mínimamente) al resto de la humanidad. Aunque respirar tenga externalidades negativas, estas son mucho menores que el beneficio de respirar, que sería netamente beneficioso que todos respiremos. En cambio, si todos contaminan el río, sería netamente perjudicial para la comunidad.
 
 Con las externalidades positivas sucede lo mismo pero a la inversa. Se vuelven un problema cuando la acción es costosa para el individuo y beneficiosa para el resto, siempre que el costo para el individuo sea menor al beneficio que la acción genera al resto. En estos casos, sería netamente beneficioso que todos lleven a cabo la acción correspondiente, y netamente perjudicial que no lo hagan.
 

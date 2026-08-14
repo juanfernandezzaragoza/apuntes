@@ -4,13 +4,13 @@ draft: false
 ---
 El [[reconocimiento]] requiere que todos los participantes puedan vigilar a todos los otros participantes.
 
-El reconocimiento exige penalizar a quien incumple las reglas, incluida la regla de imponer las reglas. 
+El reconocimiento exige penalizar a quien incumple las reglas, incluida la regla de imponer las reglas. Eso hace que la vigilancia necesaria crezca con cada participante.
 
-Supongamos que A hace un fuego y corresponde darle frutas.
+Supongamos que una comunidad tiene la regla de dar frutas a quien hace un fuego, y que A hizo un fuego.
 
 Para saber que B no da frutas a A, hace falta ver que A hizo fuego y que B no dio frutas. Entonces, saber cuándo penalizar a B para que el sistema funcione requiere estar al tanto de las actividades de A y B.
 
-Para saber que C no penalizó adecuadamente a B cuando tenía que haberlo hecho, hace falta ver que B faltó a dar frutas cuando debía (eso requiere estar al tanto de A y de B), y ver que C no lo penalizó. Esto requiere estar al tanto de las acciones de A, B y C.
+Para saber que C no penalizó adecuadamente a B cuando tenía que haberlo hecho, hace falta ver que B no dio frutas cuando debía (eso requiere estar al tanto de A y de B), y ver que C no lo penalizó. Esto requiere estar al tanto de las acciones de A, B y C.
 
 Del mismo modo, para saber que D cumple su rol, hay que estar al tanto de las actividades de A, B, C y D. Estar al tanto del cumplimiento estricto del reconocimiento requiere ver la actividad de todos los participantes, algo factible en grupos pequeños pero no en grupos grandes.
 

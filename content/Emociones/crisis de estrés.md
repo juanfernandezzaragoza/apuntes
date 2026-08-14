@@ -4,10 +4,10 @@ draft: false
 ---
 La crisis de estrés es la prevalencia del [[estrés]] a nivel social debido a la [[volatilidad de jerarquías]], una [[distorsiones|distorsión]] que amenaza a posiciones dominantes que solían ser seguras.
 
-El estrés era una emoción aguda cuando los [[sistema de rangos|rangos]] eran estables, y promovía respuestas fisiológicas del para apostarlo todo por el corto plazo, como el aumento del ritmo cardíaco, la reducción del sueño y de la actividad digestiva. Cuando estas respuestas, preparadas para ser esporádicas, se vuelven crónicas, aumentan los problemas cardíacos y las úlceras estomacales.
+El estrés era una emoción aguda cuando los [[sistema de rangos|rangos]] eran estables, y promovía respuestas fisiológicas para apostarlo todo por el corto plazo, como el aumento del ritmo cardíaco, la reducción del sueño y de la actividad digestiva. Cuando estas respuestas, preparadas para ser esporádicas, se vuelven crónicas, aumentan los problemas cardíacos y las úlceras estomacales.
 
 Además, el estrés mal dirigido puede generar ciclos de retroalimentación de la agresión.
-# Ciclos de retroalimentación por estrés mal dirigido
+### Ciclos de retroalimentación por estrés mal dirigido
 
 Cuando la volatilidad de la posición personal se debe a factores externos, agredir a subalternos puede ser contraproducente y generar ciclos de retroalimentación.
 

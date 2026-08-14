@@ -1,5 +1,5 @@
 ---
-Title: Algunos desvíos del reconocimiento son recompensados
+title: Algunos desvíos del reconocimiento son recompensados
 draft: false
 ---
 Los valores en el [[reconocimiento]] tienden a [[convergencia de reconocimiento|converger]], porque desviarse de los valores comunes es costoso. 

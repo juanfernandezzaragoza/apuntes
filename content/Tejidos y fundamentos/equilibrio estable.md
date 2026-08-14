@@ -1,5 +1,5 @@
 ---
-Title: Equilibrio estable
+title: Equilibrio estable
 draft: false
 ---
 Intuitivamente, un equilibrio estable es un escenario donde

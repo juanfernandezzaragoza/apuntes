@@ -1,6 +1,6 @@
 ---
 draft: false
-Title: Paradoja de la atención
+title: Paradoja de la atención
 ---
 La paradoja de la atención es el hecho, aparentemente paradójico, de que prestamos más atención a los hechos infrecuentes. Los sucesos habituales pueden [[intuición y razón|intuirse]] mientras que los sucesos sorprendentes suelen requerir atención explícita. Metafóricamente, los peces son conscientes de las burbujas pero no del agua que los rodea.
 

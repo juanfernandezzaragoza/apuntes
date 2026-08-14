@@ -1,5 +1,5 @@
 ---
-Title: Escalada armamentista
+title: Escalada armamentista
 draft: false
 ---
 Una escalada armamentista o carrera armamentista es una situación donde cada parte se esfuerza en fortalecerse o mejorar más que el resto. Como todos hacen lo mismo, terminan destinando esfuerzos para contrarrestar los esfuerzos de los demás, pero quedan todos prácticamente en el mismo lugar. Puede pensarse como una familia de [[externalidad|externalidades negativas]] que suceden con frecuencia.

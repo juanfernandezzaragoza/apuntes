@@ -1,6 +1,6 @@
 ---
-Draft: false
-Title: Disonancia cognitiva
+draft: false
+title: Disonancia cognitiva
 ---
 La disonancia cognitiva es el malestar que sentimos cuando nos volvemos conscientes de que nuestras acciones no son coherentes con las creencias que reportamos tener.
 

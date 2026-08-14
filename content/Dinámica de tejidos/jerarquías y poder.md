@@ -8,9 +8,9 @@ Los jerarcas tienen poder sobre sus subordinados porque tienen la capacidad de d
 
 Para los subordinados, es conveniente seguir las órdenes del jerarca siempre que esto sea menos costoso que no hacerlo. Esto depende de por lo menos tres factores:
 1. El costo de ejecutar la acción ordenada por el jerarca. Si la acción es transferir valor al jerarca, el costo es el valor transferido.
-2. El costo de la penalización por ignorar la acción ordenada. La penalización puede ser positiva o negativa.
+2. El costo de la penalización por ignorar la acción ordenada. La penalización puede ser negativa (quitar un premio, una oportunidad o un privilegio) o positiva (infligir un daño).
 3. Las recompensas y penalizaciones efectuadas por otros tejidos de cooperación, que interfieren en el cálculo.
 
 Dado que la cooperación grupal suele ser de suma positiva, los jerarcas pueden [[extracción de excedentes|extraer excedentes]]. 
 
-Existen [[equilibrio estable|equilibrios estables]] con excedentes arbitrariamente grandes y bienestar de los subordinados arbitrariamente pequeños. 
+Existen [[equilibrio estable|equilibrios estables]] con excedentes arbitrariamente grandes y un bienestar de los subordinados arbitrariamente pequeño. 

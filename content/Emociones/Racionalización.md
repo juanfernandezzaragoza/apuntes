@@ -1,5 +1,5 @@
 ---
-Title: Racionalización
+title: Racionalización
 draft: false
 ---
 La racionalización es la justificación racional de ideas o conceptos que se adquirieron por medios no racionales. Es una forma de autoengaño muy difundida.

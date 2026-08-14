@@ -1,6 +1,6 @@
 ---
 draft: false
-Title: Resumen de las emociones de cooperación
+title: Resumen de las emociones de cooperación
 ---
 Las siguientes [[emociones de cooperación|emociones]] implementan y navegan tejidos de cooperación:
 
