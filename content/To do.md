@@ -43,19 +43,19 @@ Introducir el término "desgarro" para hablar del desplazamiento de tejidos.
 1. Rendimientos de escala
 2. Efecto lock-in? (vinculado a efectos de red y rendimientos de escala)
 ---
-1. Emociones de rangos
-2. Sobre el marxismo
+
+1. Sobre el marxismo
 	1. Estructura-superestructura demasiado lineal
 	2. Teoría de clases demasiado lineal (no considera tejido de cooperación)
 	3. La noción de "sistema económico" debe centrarse en el tejido de cooperación
-3. Menú de distorsiones de las emociones (parecido al menú que armé hace algún tiempo sobre la historia de los sistemas económicos)
-4. Menú sobre juegos donde el ganador se lleva todo
+2. Menú de distorsiones de las emociones (parecido al menú que armé hace algún tiempo sobre la historia de los sistemas económicos)
+3. Menú sobre juegos donde el ganador se lleva todo
 
-5. racionalización de cambios en tejidos como cambios en sistemas sociales (y una lista de ellos?)
+4. racionalización de cambios en tejidos como cambios en sistemas sociales (y una lista de ellos?)
 	1. Los celulares y las redes facilitan la infidelidad -> se racionaliza con poliamor
 
-7. Temas de capurnética? Crecer una solución en lugar de construirla?
-8. Pérdida social asociada a los efectos de red
+5. Temas de capurnética? Crecer una solución en lugar de construirla?
+6. Pérdida social asociada a los efectos de red
 	1. Cuánto se quedan los jerarcas
 	2. cuánto destruyen de otras redes
 	3. Cuánto valor trae una organización?
