@@ -6,4 +6,4 @@ El quinto tejido sería un [[tejido de cooperación]], más allá de la [[recipr
 
 Dado que varios problemas de la humanidad emergen del dilema central, implementar y escalar un quinto tejido serviría para atacar varias crisis desde su raíz común.
 
-Una forma posible de concebir el diseño del quinto tejido es como una forma de escalar el reconocimiento, tal como [[mercado escala reciprocidad|el mercado escaló a la reciprocidad]].
+Una forma posible de concebir el diseño del quinto tejido es como una forma de [[escalar el reconocimiento]], tal como [[mercado escala reciprocidad|el mercado escaló a la reciprocidad]].

@@ -6,4 +6,4 @@ Los rendimientos de escala son el efecto que tiene, sobre la productividad, la e
 
 En la mayoría de los dominios, los rendimientos de escala dependen del grado de [[desarrollo tecnológico]], porque la capacidad de distribuir y organizar tareas en escalas mayores es esencial para aprovechar rendimientos crecientes hasta escalas mayores.
 
-Los [[Tejidos y fundamentos/Efectos de red|efectos de red]] pueden pensarse como rendimientos crecientes de escala en la demanda de un servicio.
+Los [[Tejidos y fundamentos/efectos de red|efectos de red]] pueden pensarse como rendimientos crecientes de escala en la demanda de un servicio.
