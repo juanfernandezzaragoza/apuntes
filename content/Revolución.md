@@ -1,0 +1,9 @@
+---
+title: Revolución
+draft: false
+---
+Las verdaderas revoluciones se dan cuando una forma distinta de hacer las cosas escala hasta volverse la norma. Empieza en escalas pequeñas o marginales. Si prospera, gana adopción, crece como una bola de nieve y eventualmente se vuelve masiva. El paso a la masividad puede coincidir con [[ecolisis|choques violentos]] contra el sistema reemplazado.
+
+Desde esta óptica, el Heliocentrismo fue una revolución científica. Comenzó siendo adaptado por pocos académicos y ganó adopción al mostrar prosperidad, hasta transformarse en la norma. El auge de la economía de mercado fue una revolución económica. Comenzó siendo adoptado por pocos mercaderes en la edad media, y hoy es la norma de interacción económica global. De manera similar, el uso de los celulares revolucionó las comunicaciones. Todos estos procesos fueron revoluciones exponenciales, y las revoluciones exponenciales se proyectan y sostienen en el tiempo, justamente porque logran que participar del sistema sea más conveniente que no hacerlo. Esto implica que es conveniente adoptar masivamente el sistema y preservarlo en el tiempo.
+
+Pasar a un sistema económico basado en construir y escalar [[quinto tejido]] sería una revolución. Sin embargo, tomar el poder Estatal y dedicarse a hacer reformas económicas no cumpliría esta definición. Conservar el [[tejido de cooperación|tejido]] de las [[jerarquías]] y simplemente cambiar el jerarca rechazado por un jerarca que lleve a cabo medidas preferibles modifica las medidas pero no la estructura de organización social, y por lo tanto se parece más al reformismo que a las revoluciones. Al no cumplir las condiciones de exponencialidad y autosostenibilidad, estas reformas no ganaron adopción global ni se preservaron durante siglos, a diferencia del heliocentrismo y la economía de mercado que siguen prosperando hace cientos de años (aunque, por supuesto, han evolucionado).
