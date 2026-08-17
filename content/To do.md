@@ -2,6 +2,10 @@
 title: to do
 draft: true
 ---
+
+
+índice de cómo los problemas emocionales vienen de distorsiones en la red (para tenerlos todos ahí e irlos completando)
+
 ----
 sistema básico vs subsidiario (no sé dónde tengo hecha esta distinción pero es importante) -> profundizar por qué es importante => tejido de cooperación usa el término "básico" sin referir o linkear nada más
 1. Primacía del sistema fundamental sobre las reglas
