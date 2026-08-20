@@ -6,5 +6,5 @@ Los [[sistema de intermotivación|sistemas de motivación]] (o sistemas de incen
 
 Diremos que un sistema A depende de un sistema B si el sistema B motiva la imposición del sistema A. En otras palabras, si el sistema B premia a quienes imponen el sistema A, o penaliza a quienes no imponen el sistema A.
 
-La relación de dependencia permite distinguir entre sistemas básicos y sistemas subsidiarios de organización social. 
+La relación de dependencia permite distinguir entre [[sistemas básicos]] y sistemas subsidiarios de organización social. 
 

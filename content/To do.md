@@ -8,9 +8,8 @@ draft: true
 
 ----
 sistema básico vs subsidiario (no sé dónde tengo hecha esta distinción pero es importante) -> profundizar por qué es importante => tejido de cooperación usa el término "básico" sin referir o linkear nada más
-1. Primacía del sistema fundamental sobre las reglas
-2. Todo tiene un sistema fundamental
-3. Estabilidad interna - competencia entre sí -> la dinámica de competencia entre tejidos sigue patrones específicos
+1. Todo tiene un sistema fundamental
+2. Estabilidad interna - competencia entre sí -> la dinámica de competencia entre tejidos sigue patrones específicos
 
 
 ---

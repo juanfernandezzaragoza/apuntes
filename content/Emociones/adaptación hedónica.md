@@ -11,5 +11,4 @@ Se conocen pocas excepciones, es decir, cosas que modifican sostenidamente nuest
 Es curioso que las excepciones a la adaptación hedónica suelen ser cosas que implican cambios sostenidos a nuestros vínculos, algo a lo que no parecemos acostumbrarnos.
 
 **Vínculos externos**
-
 - [Adaptación hedónica](https://es.wikipedia.org/wiki/Adaptaci%C3%B3n_hed%C3%B3nica)
