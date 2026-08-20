@@ -2,7 +2,9 @@
 title: to do
 draft: true
 ---
+único punto de falla en sistemas complejos
 
+----
 
 índice de cómo los problemas emocionales vienen de distorsiones en la red (para tenerlos todos ahí e irlos completando)
 
@@ -57,8 +59,7 @@ Introducir el término "desgarro" para hablar del desplazamiento de tejidos.
 4. racionalización de cambios en tejidos como cambios en sistemas sociales (y una lista de ellos?)
 	1. Los celulares y las redes facilitan la infidelidad -> se racionaliza con poliamor
 
-5. Temas de capurnética? Crecer una solución en lugar de construirla?
-6. Pérdida social asociada a los efectos de red
+5. Pérdida social asociada a los efectos de red
 	1. Cuánto se quedan los jerarcas
 	2. cuánto destruyen de otras redes
 	3. Cuánto valor trae una organización?
