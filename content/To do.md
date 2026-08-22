@@ -2,7 +2,7 @@
 title: to do
 draft: true
 ---
-único punto de falla en sistemas complejos
+
 
 ----
 
