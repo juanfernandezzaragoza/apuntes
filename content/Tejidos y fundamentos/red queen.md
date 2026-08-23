@@ -10,7 +10,6 @@ Algunos ejemplos de carreras armamentistas:
 3. Un grupo de personas busca señalizar su estatus ostentando riqueza. Cuanto más gasta uno, más debe gastar el resto para no quedar atrás. Históricamente, había [[reconocimiento|normas sociales]] que reprobaban la ostentación para prevenir estas carreras armamentistas.
 
 **Vínculos externos**
-
 - [Carrera de la reina roja](https://en.wikipedia.org/wiki/Red_Queen%27s_race)
 - [Hipótesis de la reina roja](https://es.wikipedia.org/wiki/Hip%C3%B3tesis_de_la_Reina_Roja) 
 
