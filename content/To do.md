@@ -2,8 +2,15 @@
 title: to do
 draft: true
 ---
-
-
+1. Fin del mercado global
+2. Fin de la propiedad privada de las tierras
+3. Empresas (qué son y para qué sirven)
+4. Sistema financiero
+5. Enumeración de crisis emocionales (o todo un resumen de emociones)
+6. Ejemplos de explotación sin propiedad privada
+7. Enumeración de para qué sirve el networkismo, qué contenidos resume o considera (esto quizás ya está)
+8. Paradoja de que cuando el sistema ya no es fuerte la gente lo bardea menos (el discurso es efecto más que causa)
+9. Enumeración de ejemplos del mito discursivista
 ----
 
 índice de cómo los problemas emocionales vienen de distorsiones en la red (para tenerlos todos ahí e irlos completando)
