@@ -2,15 +2,18 @@
 title: to do
 draft: true
 ---
-1. Fin del mercado global
-2. Fin de la propiedad privada de las tierras
-3. Empresas (qué son y para qué sirven)
-4. Sistema financiero
-5. Enumeración de crisis emocionales (o todo un resumen de emociones)
-6. Ejemplos de explotación sin propiedad privada
-7. Enumeración de para qué sirve el networkismo, qué contenidos resume o considera (esto quizás ya está)
-8. Paradoja de que cuando el sistema ya no es fuerte la gente lo bardea menos (el discurso es efecto más que causa)
-9. Enumeración de ejemplos del mito discursivista
+
+1. Fin de la propiedad privada de las tierras
+2. Sistema financiero
+	1. Sirve, esencialmente, para explotar tecnologías nuevas.
+	2. También sirve para llevar a cabo acciones convenientes pero riesgosas
+	3. Es una forma de cooperación grupal que se plantea como cooperación individual (del mismo modo que las empresas) -> las jerarquías, en general, ponen un individuo como proxy de la cooperación con el grupo.
+3. Cómo se determina la ganancia del sistema financiero? Ahí hay una pregunta económica que no está respondida matemáticamente. 
+4. Enumeración de crisis emocionales (o todo un resumen de emociones)
+5. Ejemplos de explotación sin propiedad privada
+6. Enumeración de para qué sirve el networkismo, qué contenidos resume o considera (esto quizás ya está)
+7. Paradoja de que cuando el sistema ya no es fuerte la gente lo bardea menos (el discurso es efecto más que causa)
+8. Enumeración de ejemplos del mito discursivista
 ----
 
 índice de cómo los problemas emocionales vienen de distorsiones en la red (para tenerlos todos ahí e irlos completando)
@@ -50,7 +53,10 @@ Introducir el término "desgarro" para hablar del desplazamiento de tejidos.
 2. La economía como algo que se acelera (tipo no es solo dar un pasito en una dirección sino ir cada vez más rápido, por eso un cambio tan chiquito impactaría tanto) -> de hecho eso sucedía en las pequeñas comunidades, cambiaba muchísimo
 
 ---
-
+Preguntas científicas no respondidas
+1. Por qué no cualquiera puede ser capitalista
+2. Cómo se establecen y evolucionan los valores de una comunidad
+3. Cómo interactúa la concentración de poder con el hecho de que podamos usar más de una plataforma
 ---
 1. Rendimientos de escala
 2. Efecto lock-in? (vinculado a efectos de red y rendimientos de escala)
@@ -164,4 +170,10 @@ Etc.
 1. No queda claro que 
 
 2. 
-3. 
+
+----
+Beneficios de cooperar
+
+1. Reducir escalada armamentista de consumo reputacional (conspicuous consumption se llama?)
+	1. Los huteritas lo hacen y son mucho más eficientes porque reducen costos.
+2. 
