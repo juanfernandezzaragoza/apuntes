@@ -14,8 +14,14 @@ draft: true
 6. Enumeración de para qué sirve el networkismo, qué contenidos resume o considera (esto quizás ya está)
 7. Paradoja de que cuando el sistema ya no es fuerte la gente lo bardea menos (el discurso es efecto más que causa)
 8. Enumeración de ejemplos del mito discursivista
+9. La pregunta guía (que le hice a Nahuel) sobre denunciar élites o sistemas
 ----
 
+Cápside dictatorial
+- Humana vs. robots y empresas de IA
+- Humana vs. alienígenas
+
+----
 índice de cómo los problemas emocionales vienen de distorsiones en la red (para tenerlos todos ahí e irlos completando)
 
 ----
