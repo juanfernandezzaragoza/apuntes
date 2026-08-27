@@ -2,7 +2,7 @@
 title: to do
 draft: true
 ---
-
+----
 1. Fin de la propiedad privada de las tierras
 2. Sistema financiero
 	1. Sirve, esencialmente, para explotar tecnologías nuevas.
@@ -20,6 +20,13 @@ draft: true
 Cápside dictatorial
 - Humana vs. robots y empresas de IA
 - Humana vs. alienígenas
+
+----
+Intervenir los mecanismos (efecto mariposa)
+
+---
+
+Crecimiento de la desigualdad por disputa de redes -> revisar qué se hizo y qué no
 
 ----
 índice de cómo los problemas emocionales vienen de distorsiones en la red (para tenerlos todos ahí e irlos completando)
