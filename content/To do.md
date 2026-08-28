@@ -22,7 +22,18 @@ Cápside dictatorial
 - Humana vs. alienígenas
 
 ----
-Intervenir los mecanismos (efecto mariposa)
+Intervenir los mecanismos de interacción (efecto mariposa) puede tener un efecto gigante.
+
+----
+
+Los tejidos de cooperación son como el sistema operativo de las organizaciones. No llegan a ser el hardware pero todo sistema de reglas o instituciones ejecutan en alguno de estos. Hay problemas que están en el sistema operativo. No se pueden arreglar creando nuevas aplicaciones, necesitás un nuevo sistema operativo. Eso es básico.
+
+Si el sistema operativo tiene bugs críticos, o vulnerabilidades críticas, no podés pensarlo en las aplicaciones
+	1. Si te ponés a analizar cómo esos bugs aplican a las aplicacioens, te vas a estar equivocando.
+	2. Describiendo el bug de la aplicación
+	3. intentando programar alrededor para que un bug particular no suceda (pero a la semana que viene ser rompe por otro lado)
+	4. Eso es lo que pasa con la sociedad en general.
+	5. Esto se trata de enfrentar los sistemas operativos.
 
 ---
 
@@ -189,4 +200,6 @@ Beneficios de cooperar
 
 1. Reducir escalada armamentista de consumo reputacional (conspicuous consumption se llama?)
 	1. Los huteritas lo hacen y son mucho más eficientes porque reducen costos.
-2. 
+
+----
+Respuesta a Flavia Costa
