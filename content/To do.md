@@ -2,6 +2,7 @@
 title: to do
 draft: true
 ---
+
 ----
 1. Fin de la propiedad privada de las tierras
 2. Sistema financiero
