@@ -7,6 +7,9 @@ El mercado primero se sembró y después escaló
 Las revoluciones son procesos exponenciales
 
 ----
+Fenómeno emergente
+
+----
 1. Fin de la propiedad privada de las tierras
 2. Sistema financiero
 	1. Sirve, esencialmente, para explotar tecnologías nuevas.
