@@ -2,6 +2,9 @@
 title: to do
 draft: true
 ---
+El mercado primero se sembró y después escaló
+
+Las revoluciones son procesos exponenciales
 
 ----
 1. Fin de la propiedad privada de las tierras
@@ -15,7 +18,6 @@ draft: true
 6. Enumeración de para qué sirve el networkismo, qué contenidos resume o considera (esto quizás ya está)
 7. Paradoja de que cuando el sistema ya no es fuerte la gente lo bardea menos (el discurso es efecto más que causa)
 8. Enumeración de ejemplos del mito discursivista
-9. La pregunta guía (que le hice a Nahuel) sobre denunciar élites o sistemas
 ----
 
 Cápside dictatorial
