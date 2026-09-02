@@ -4,7 +4,7 @@ draft: false
 ---
 Tomar demasiado tiempo analizando la élite de turno puede ser infructuoso para resolver los problemas de raíz, porque el [[impacto de una acción|impacto]] de quitar o reemplazar a una élite podría ser menor.
 
-La pregunta clave, siempre que queramos resolver algún problema asociado a actividades de una élite, es: ¿qué pasaría si sacamos a la élite actual del lugar que tiene? Si creemos que aparecería otra élite que traería problemas similares, entonces no deberíamos poner el foco en la élite de turno sino en los [[dilema central|mecanismos que hacen emerger]] a las élites.
+La pregunta clave, siempre que queramos resolver algún problema asociado a actividades de una élite, es: ¿qué pasaría si sacamos a la élite actual del lugar que tiene? Si creemos que aparecería otra élite que traería problemas similares, entonces no deberíamos poner el foco en la élite de turno sino en los [[dilema central|mecanismos]] que hacen [[fenómeno emergente|emerger]] a las élites.
 
 Algunos problemas coyunturales pueden resolverse cambiando una élite por otra. Una élite podría impulsar un conflicto étnico que otra élite prefiera evitar. Otra élite podría consumir menos electricidad por preferir la producción agrícola a la industrial. 
 

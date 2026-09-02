@@ -2,12 +2,21 @@
 title: to do
 draft: true
 ---
+procesos exponenciales
+
+paradoja de las exponenciales
+
+---
+
 El mercado primero se sembró y después escaló
 
 Las revoluciones son procesos exponenciales
 
 ----
-Fenómeno emergente
+
+Control desde el ruido 
+
+qué es un modelo
 
 ----
 1. Fin de la propiedad privada de las tierras
@@ -28,18 +37,11 @@ Cápside dictatorial
 - Humana vs. alienígenas
 
 ----
-Intervenir los mecanismos de interacción (efecto mariposa) puede tener un efecto gigante.
+
 
 ----
 
-Los tejidos de cooperación son como el sistema operativo de las organizaciones. No llegan a ser el hardware pero todo sistema de reglas o instituciones ejecutan en alguno de estos. Hay problemas que están en el sistema operativo. No se pueden arreglar creando nuevas aplicaciones, necesitás un nuevo sistema operativo. Eso es básico.
 
-Si el sistema operativo tiene bugs críticos, o vulnerabilidades críticas, no podés pensarlo en las aplicaciones
-	1. Si te ponés a analizar cómo esos bugs aplican a las aplicacioens, te vas a estar equivocando.
-	2. Describiendo el bug de la aplicación
-	3. intentando programar alrededor para que un bug particular no suceda (pero a la semana que viene ser rompe por otro lado)
-	4. Eso es lo que pasa con la sociedad en general.
-	5. Esto se trata de enfrentar los sistemas operativos.
 
 ---
 
@@ -70,7 +72,9 @@ Y asegurarse en el futuro de que no duplico nada.
 	1. Falta explicar el conflicto de la motivación (x ej. familia de doctores y la banda, amigos del club de teatro y del equipo de basquetbol)
 
 ---
-5. Idea disruptiva (linkearlo con el impacto de las acciones) -> las ideas disruptivas tienen alto impacto
+
+
+
 6. Alan Kay: la simplicidad se construye complejizando un poquito el bloque (elipses)
 
 ----

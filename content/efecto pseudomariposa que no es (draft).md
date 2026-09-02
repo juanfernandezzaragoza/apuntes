@@ -2,6 +2,8 @@
 title: Efecto pseudomariposa que en realidad es otra cosa
 draft: true
 ---
+
+
 1. En los sistemas hay algo parecido al efecto mariposa
 2. Un pequeño cambio en las formas de interacción genera fenómenos emergentes muy distintos
 3. Pienso en el pentominó
@@ -9,3 +11,4 @@ draft: true
 	1. Tener transacciones individuales con dinero llevó el mundo medieval al mundo actual
 	2. Son procesos que se aceleran a sí mismos (pasos en la misma dirección)
 	3. ...
+Intervenir los mecanismos de interacción (efecto mariposa) puede tener un efecto gigante.

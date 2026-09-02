@@ -2,7 +2,7 @@
 title: las corporaciones son emergentes
 draft: false
 ---
-Pensar que la causa de los problemas son las corporaciones o los poderosos puede ser políticamente contraproducente. Creo que es más útil pensar cómo los problemas emergen de nuestras acciones e interacciones.
+Pensar que la causa de los problemas son las corporaciones o los poderosos puede ser políticamente contraproducente. Creo que es más útil pensar cómo los problemas [[fenómeno emergente|emergen]] de nuestras acciones e interacciones.
 
 Por ejemplo, yo compro productos descartables porque son cómodos, baratos y no tengo que lavarlos. Uso redes sociales para no perderme vida social y oportunidades laborales. Uso inteligencia artificial porque, de no hacerlo, voy a estar en desventaja respecto de quienes sí lo hagan. En los 3 casos, termino haciendo algo que preferiría que nadie haga, porque me conviene o es más cómodo.
 
