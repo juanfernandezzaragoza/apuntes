@@ -2,7 +2,9 @@
 title: to do
 draft: true
 ---
-procesos exponenciales
+1. procesos exponenciales (desde ideas disruptivas)
+2. personas con mayor tolerancia al costo social
+
 
 paradoja de las exponenciales
 
@@ -213,3 +215,11 @@ Beneficios de cooperar
 
 ----
 Respuesta a Flavia Costa
+
+---
+La diferencia entre una máquina y un sistema vivo es más cualitativa que cuantitativa, pero tiene que ver con la capacidad de que un equipo de personas haga todo el seguimiento de cómo el sistema funciona.
+
+Delegar en el sistema el procesamiento de la información.
+
+---
+En general, perseguir ideas disruptivas sucede cuando esas ideas nuevas perseguidas son mejores (es improbable que la gente haga esfuerzos muy costosos en construir algo distinto, y que ese algo distinto se transforme en viable, sin que eso sea mejor).
