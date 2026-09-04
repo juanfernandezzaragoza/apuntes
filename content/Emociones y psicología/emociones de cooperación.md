@@ -12,7 +12,7 @@ Dentro del homeostato de la cooperación, cada emoción:
 El enfoque basado en los tejidos es insuficiente para apreciar la riqueza y la variabilidad de cómo cada persona vive sus emociones, pero es una simplificación útil para entender la sociedad. Las generalizaciones sobre los individuos ayudan a entender fenómenos macroscópicos de las emociones a escala social, como por ejemplo las crisis actuales de salud mental. Estas crisis generales nacen porque nuestras emociones se adaptaron a tejidos de escalas pequeñas y sufren [[desajuste evolutivo|desajustes evolutivos]] cuando los tejidos para los que se adaptaron sufrieron [[distorsiones]]. 
 
 Las emociones de cooperación se organizan en cuatro subsistemas: 
-1. [[Emociones de reciprocidad]]
+1. [[emociones de reciprocidad]]
 2. [[emociones de reconocimiento]]
 3. Emociones [[emociones de motivación|para contribuir]] a la comunidad
 4. Emociones [[emociones de rangos|para cuidar]] el [[sistema de rangos|rango]]

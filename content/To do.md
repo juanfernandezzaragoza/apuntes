@@ -107,6 +107,7 @@ Preguntas científicas no respondidas
 
 4. racionalización de cambios en tejidos como cambios en sistemas sociales (y una lista de ellos?)
 	1. Los celulares y las redes facilitan la infidelidad -> se racionaliza con poliamor
+	2. Individualismo -> caída de los tejidos de cooperación
 
 5. Pérdida social asociada a los efectos de red
 	1. Cuánto se quedan los jerarcas
