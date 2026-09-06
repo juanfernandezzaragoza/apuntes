@@ -224,3 +224,13 @@ Delegar en el sistema el procesamiento de la información.
 
 ---
 En general, perseguir ideas disruptivas sucede cuando esas ideas nuevas perseguidas son mejores (es improbable que la gente haga esfuerzos muy costosos en construir algo distinto, y que ese algo distinto se transforme en viable, sin que eso sea mejor).
+
+----
+Seleccion entre grupos
+- Normas que son individualmente convenientes para la mayoría del grupo en un momento dado
+- Pero que el grupo va a andar peor que otro
+
+No es lo mismo que 
+- Encontrar algo que localmente funciona para el grupo (creatividad, evolución normal dado que se premian E+)
+- Normas que no convienen a nadie?
+	- (en realidad también pueden ser normas que el grupo preferiría no tener, pero que is no las tienen son dominados?) No sé, definirlo bien
