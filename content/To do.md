@@ -234,3 +234,9 @@ No es lo mismo que
 - Encontrar algo que localmente funciona para el grupo (creatividad, evolución normal dado que se premian E+)
 - Normas que no convienen a nadie?
 	- (en realidad también pueden ser normas que el grupo preferiría no tener, pero que is no las tienen son dominados?) No sé, definirlo bien
+---
+
+Problemas que son excusas
+1. El problema de que el perceptrón no puede simular el XOR (ves el árbol y no el bosque)
+2. Racionalizan descartar un camino
+3. Creo que el problema de monetizar y su costo puede ser parte de eso
