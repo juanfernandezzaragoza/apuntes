@@ -2,7 +2,7 @@
 title: Dominio de mayorías
 draft: false
 ---
-El dominio de la mayoría es el efecto de que los [[valores]] emergentes en el [[reconocimiento]] son los sostenidos por la mayoría, debido a que los valores comunitarios tienden a coincidir con la valoración mediana al interior del grupo.
+El dominio de la mayoría es el efecto de que los [[valores]] emergentes en el [[reconocimiento]] son los sostenidos por la mayoría, debido a que los valores comunitarios tienden a coincidir con la valoración mediana al interior del grupo. Este problema también estaría presente en una [[escalar el reconocimiento|versión escalable del reconocimiento]].
 
 Esto podría generar situaciones en que la mayoría decida explotar a una minoría para beneficio de la mayoría, incluso en situaciones donde el perjuicio para la mayoría es menor que el beneficio para la minoría, lo cual implicaría un perjuicio neto para la sociedad. 
 

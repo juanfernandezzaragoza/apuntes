@@ -21,7 +21,7 @@ Control desde el ruido
 qué es un modelo
 
 ----
-1. Fin de la propiedad privada de las tierras
+1. Fin de la propiedad privada de las tierras (o uno de cápsides y ecólisis futuras)
 2. Sistema financiero
 	1. Sirve, esencialmente, para explotar tecnologías nuevas.
 	2. También sirve para llevar a cabo acciones convenientes pero riesgosas
@@ -240,3 +240,17 @@ Problemas que son excusas
 1. El problema de que el perceptrón no puede simular el XOR (ves el árbol y no el bosque)
 2. Racionalizan descartar un camino
 3. Creo que el problema de monetizar y su costo puede ser parte de eso
+----
+Sobre IA 
+- Acelera la ruptura de sistemas que están rotos
+- El AI safety es problema de los empresarios
+- Contra el salario básico universal
+- El problema principal es de plataformas (por qué está todo cada vez peor)
+- Soledad e IA (contextual, también tiene lucha de redes)
+- Psicosis e IA (contextual, qué hacer si ese contexto es un robot)
+- Motivación e IA (no tiene sentido hacer nada si el robot la va a hacer mejor que vos)
+
+---
+El poder no emite discurso que afecta a la conducta.
+El poder emite incentivos, que afectan a la conducta, y se racionalizan con discurso.
+El discurso sólo funciona en relación a los tejidos.
