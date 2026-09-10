@@ -6,7 +6,15 @@ draft: true
 2. personas con mayor tolerancia al costo social
 
 
-paradoja de las exponenciales
+
+
+---
+1. El poder emite incentivos 
+	1. Emite incentivos, motiva a la gente a hacer cosa, gracias a tejidos de cooperación
+	2. Gracias a que la jerarquía es una estructura que se sostiene por motivar a otros a que la sostengan
+	3. Esos incentivos luego son racionalizados.
+
+
 
 ---
 
