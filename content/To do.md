@@ -9,10 +9,7 @@ draft: true
 
 
 ---
-1. El poder emite incentivos 
-	1. Emite incentivos, motiva a la gente a hacer cosa, gracias a tejidos de cooperación
-	2. Gracias a que la jerarquía es una estructura que se sostiene por motivar a otros a que la sostengan
-	3. Esos incentivos luego son racionalizados.
+
 
 
 
@@ -33,13 +30,13 @@ qué es un modelo
 2. Sistema financiero
 	1. Sirve, esencialmente, para explotar tecnologías nuevas.
 	2. También sirve para llevar a cabo acciones convenientes pero riesgosas
-	3. Es una forma de cooperación grupal que se plantea como cooperación individual (del mismo modo que las empresas) -> las jerarquías, en general, ponen un individuo como proxy de la cooperación con el grupo.
+	3. Es una forma de cooperación grupal que se plantea como cooperación individual (del mismo modo que las empresas) -> las jerarquías, en general, ponen un individuo como proxy de la cooperación con el grupo. => Esto lo podría sumar
 3. Cómo se determina la ganancia del sistema financiero? Ahí hay una pregunta económica que no está respondida matemáticamente. 
 4. Enumeración de crisis emocionales (o todo un resumen de emociones)
 5. Ejemplos de explotación sin propiedad privada
 6. Enumeración de para qué sirve el networkismo, qué contenidos resume o considera (esto quizás ya está)
-7. Paradoja de que cuando el sistema ya no es fuerte la gente lo bardea menos (el discurso es efecto más que causa)
-8. Enumeración de ejemplos del mito discursivista
+
+7. Enumeración de ejemplos del mito discursivista
 ----
 
 Cápside dictatorial
@@ -93,7 +90,7 @@ Introducir el término "desgarro" para hablar del desplazamiento de tejidos.
 
 ---
 
-1. Revoluciones como procesos expoonenciales
+1. Revoluciones como procesos exponenciales
 2. La economía como algo que se acelera (tipo no es solo dar un pasito en una dirección sino ir cada vez más rápido, por eso un cambio tan chiquito impactaría tanto) -> de hecho eso sucedía en las pequeñas comunidades, cambiaba muchísimo
 
 ---
@@ -256,7 +253,7 @@ Sobre IA
 - El problema principal es de plataformas (por qué está todo cada vez peor)
 - Soledad e IA (contextual, también tiene lucha de redes)
 - Psicosis e IA (contextual, qué hacer si ese contexto es un robot)
-- Motivación e IA (no tiene sentido hacer nada si el robot la va a hacer mejor que vos)
+- Motivación e IA (no tiene sentido hacer nada si el robot la va a hacer mejor que vos) -> especialmente porque el cuello de botella siempre fue la motivación 
 
 ---
 El poder no emite discurso que afecta a la conducta.
