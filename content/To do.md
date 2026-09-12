@@ -95,7 +95,7 @@ Introducir el término "desgarro" para hablar del desplazamiento de tejidos.
 
 ---
 Preguntas científicas no respondidas
-1. Por qué no cualquiera puede ser capitalista
+1. Por qué no cualquiera puede ser capitalista (ganar plata con plata?) -> por qué igual hay desigualdad creciente quiero decir
 2. Cómo se establecen y evolucionan los valores de una comunidad
 3. Cómo interactúa la concentración de poder con el hecho de que podamos usar más de una plataforma
 ---
@@ -218,6 +218,7 @@ Beneficios de cooperar
 
 1. Reducir escalada armamentista de consumo reputacional (conspicuous consumption se llama?)
 	1. Los huteritas lo hacen y son mucho más eficientes porque reducen costos.
+2. En algún momento había reglas para que las mujeres se vistieran más tranquis.
 
 ----
 Respuesta a Flavia Costa
