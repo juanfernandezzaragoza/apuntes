@@ -44,7 +44,17 @@ Cápside dictatorial
 - Humana vs. alienígenas
 
 ----
+A medida que el sistema se vuelva peor, los sistemas alternativos serán relativamente mejores.
 
+---
+Ideas sobre IA
+1. Necesitamos un sistema económico suitable para IA.
+2. Rompe los sistemas que ya están rotos (acelerador, banda ancha, hace muchas cosas)
+	1. y también en tema de human in the loop, variable que lo optimiza, etc
+3. Sobre la motivación (es social y contextual)
+4. Sobre la locura (social y contextual)
+5. Lo que arruina todo (la maldición de los efectos de red)
+6. Contra el salario básico universal
 
 ----
 
@@ -130,6 +140,7 @@ Otros enfoques
 		clase social
 		estructura-superestructura
 		sistema económico
+		valor
 	Psicoanálisis
 		pulsión de muerte
 		sexo como principal motivación > paradoja de la atención
