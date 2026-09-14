@@ -2,7 +2,7 @@
 title: Consumismo
 draft: false
 ---
-El consumismo la [[red queen|escalada armamentista]] por el reconocimiento vinculada al consumo. Suele acompañarse de [[moda|modas]].
+El consumismo la [[red queen|escalada armamentista]] por el reconocimiento donde la forma de señalización es la obtención de bienes de consumo. Suele acompañarse de [[moda|modas]].
 
 Una persona consigue un electrodoméstico nuevo para señalizar su estatus. El problema es que cuando los otros pasan a tener el mismo electrodoméstico, este deja de señalizar estatus, por lo que el primero necesita comprar un nuevo electrodoméstico para mantener su posición relativa. Como en las carreras armamentistas, todos incurren en un costo para mantener su estatus relativo, por lo que la dinámica [[externalidad|perjudica al grupo]].
 

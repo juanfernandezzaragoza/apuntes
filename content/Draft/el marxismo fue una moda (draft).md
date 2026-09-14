@@ -1,6 +1,6 @@
 ---
 title: El marxismo fue moda
-draft: false
+draft: true
 ---
 
 
