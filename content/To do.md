@@ -11,6 +11,13 @@ draft: true
 ---
 
 
+lo que estamos viendo ahora es lo que pasó toda la historia
+la presión por desarrollarse, contra tu propia voluntad, porque si no se desarrolla tu vecino y te subyuga es lo que pasó siempre. la presión por crecer para que no te dominen, incluso cuando ese mundo de crecimiento es indeseable, es lo que pasó siempre. La gente se civilizaba y escribía sobre la utopía del edén
+la presión por efectos de red, dominio, etc. Es lo mismo de siempre. 
+Quedó "oculto" por los modelos de los economistas, pero es lo mismo de siempre
+
+
+El problema de cooperación entre empresas de IA se replica en la población general (todos queremos que nadie más la use)
 
 
 ---
