@@ -7,6 +7,8 @@ draft: true
 
 
 
+---
+3. la economía no sólo avanza sino que acelera, por lo que es muy importante cambiar el sistema
 
 ---
 
