@@ -8,7 +8,7 @@ draft: true
 
 
 ---
-3. la economía no sólo avanza sino que acelera, por lo que es muy importante cambiar el sistema
+Hipótesis: la ciencia crece porque hay una dinámica de crecer o perecer una vez que hay disputa de redes. Se desarrolla demasiado
 
 ---
 
