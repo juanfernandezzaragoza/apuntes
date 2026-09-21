@@ -20,7 +20,7 @@ la presión por efectos de red, dominio, etc. Es lo mismo de siempre.
 Quedó "oculto" por los modelos de los economistas, pero es lo mismo de siempre
 => Esto podría formar parte de la disputa de redes.
 
-El problema de cooperación entre empresas de IA se replica en la población general (todos queremos que nadie más la use)
+El problema de cooperación entre empresas de IA se replica en la población general (todos queremos que nadie más la use, pero la usamos)
 
 
 ---
