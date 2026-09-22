@@ -281,3 +281,14 @@ Sobre IA
 El poder no emite discurso que afecta a la conducta.
 El poder emite incentivos, que afectan a la conducta, y se racionalizan con discurso.
 El discurso sólo funciona en relación a los tejidos.
+
+----
+
+
+----
+ [21:33, 9/21/2026] Juano Zaragoza: al mismo tiempo, creo que muchos cambios culturales del siglo XXI vinieron más por la introducción de redes sociales y celulares que por la trayectoria militante y construcción teórica del siglo XX, pero eso ya es una discusión más larga
+[21:34, 9/21/2026] Juano Zaragoza: Por supuesto que es una discusión muy importante, que creo que tendríamos si nos tomáramos en serio la política y el cambio social, pero no hay mucho contexto donde charlar de estas cosas en profundidad
+[21:39, 9/21/2026] Juano Zaragoza: Por supuesto que es una discusión muy importante, que creo que tendríamos si nos tomáramos en serio la política y el cambio social, pero no hay mucho contexto donde charlar de estas cosas en profundidad
+Es importante porque, si fuera cierto que la base material fuera más impactante que la construcción superestructural o ideológica, entonces la revolución debería concentrarse en tecnologías de organización, producción y comunicación que generen efectos distintos en la sociedad, en lugar de construcción teórica / partidaria. Lamentablemente, hoy todo ese trabajo (que impacta tanto a la sociedad) está copado por lo peor del capitalismo
+
+---
