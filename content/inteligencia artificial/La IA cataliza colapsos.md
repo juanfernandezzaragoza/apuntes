@@ -1,5 +1,5 @@
 ---
-title: La IA
+title: La IA cataliza colapsos
 draft: false
 ---
 La IA cataliza el colapso de sistemas cuyos incentivos ya estaban mal alineados.

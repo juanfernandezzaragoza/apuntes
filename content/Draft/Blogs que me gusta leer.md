@@ -4,3 +4,6 @@
 4. distill.pub 
 5. ncase.me
 6. terrytao.wordpress.com 
+7. Lesswrong
+8. Duncan Sabien
+9. SlatestarCodex
