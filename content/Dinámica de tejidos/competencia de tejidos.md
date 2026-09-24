@@ -10,7 +10,7 @@ Las diferencias de poder se amplifican porque los tejidos más poderosos adquier
 
 Esto tiene los siguientes efectos:
 1. Las [[reconocimiento|comunidades]] pierden participantes y eventualmente son [[desplazamiento de comunidades|desplazadas]] por jerarquías.
-2. Las [[jerarquías]] mayores crecen y el poder se concentra en pocos jerarcas poderosos.
+2. Las [[jerarquías]] mayores crecen y el [[jerarquías y poder|poder]] se concentra en pocos jerarcas poderosos.
 3. La disputa por crecer o perecer se aproxima a un juego donde el [[despotismo|ganador se lleva todo]], por lo que puede generar luchas encarnizadas.
 4. En algunos contextos, los tejidos débiles [[cápside|oprimen]] a sus participantes para sobrevivir. Eventualmente, los tejidos poderosos [[ecolisis|liberan]] a los participantes de tejidos débiles para seguir creciendo.
 

@@ -54,7 +54,7 @@ Cápside dictatorial
 - Humana vs. alienígenas
 
 ----
-A medida que el sistema se vuelva peor, los sistemas alternativos serán relativamente mejores.
+
 
 ---
 Ideas sobre IA
@@ -291,4 +291,28 @@ El discurso sólo funciona en relación a los tejidos.
 [21:39, 9/21/2026] Juano Zaragoza: Por supuesto que es una discusión muy importante, que creo que tendríamos si nos tomáramos en serio la política y el cambio social, pero no hay mucho contexto donde charlar de estas cosas en profundidad
 Es importante porque, si fuera cierto que la base material fuera más impactante que la construcción superestructural o ideológica, entonces la revolución debería concentrarse en tecnologías de organización, producción y comunicación que generen efectos distintos en la sociedad, en lugar de construcción teórica / partidaria. Lamentablemente, hoy todo ese trabajo (que impacta tanto a la sociedad) está copado por lo peor del capitalismo
 
+--- 
+
+ Hoy la IA es más un catalizador que un reactivo.
+ Esto quiere decir que sus efectos más importantes hoy son por acelerar dinámicas preexistentes en lugar de generar dinámicas nuevas.
+ Especialmente rompe rápido los sistemas cuyos incentivos estaban rotos y mejora rápido los pocos sistemas cuyos incentivos andaban bien.
+ Respecto a la economía, genera un punto, punto.
+respecto de este sistema económico, la IA va a acelerar su destrucción, salvo que armemos uno nuevo.
+ ¿Por qué? Porque a medida que nos alejamos del alcance de las comunidades
+ se pueden hacer cosas que perjudiquen a las comunidades.
+ Las comunidades tienen un rango dentro del cual dicen lo que hagas tiene que beneficiar a la comunidad
+ y si haces cosas que perjudican a la comunidad vas a recibir algún castigo, micro castigo.
+ A medida que la economía excede a ese rango hay muchas cosas que quedan afuera
+ y que empiezan a rebelarse.
+ Las jerarquías tienen mayor rango pero menor ancho de banda.
+
 ---
+Keynesianismo de plataformas
+ 
+ Si tuviéramos algo así como un rapi del Estado que pueda contratar gente bajo demanda para tareas pertinentes para el Estado, eso podría ser una lenta transición al socialismo.
+ O sea, al principio tendría un shock grande porque mucha gente que trabaja directamente para el Estado, que son empleados estatales, perderían en la competencia con otra gente.
+ Pero después se podría empezar a subir los impuestos y pedirle a la gente que haga muchas cosas útiles para la sociedad, que incluso la gente vote o proponga de mejorar las plazas, lo que sea.
+ Eventualmente se van a ir aumentando los impuestos, pero también la plataforma va a permitir muchas formas de aportar.
+ Entonces la gente en lugar de pagar impuestos puede hacer tareas que se le asignen a partir de los votos de la gente.
+
+
