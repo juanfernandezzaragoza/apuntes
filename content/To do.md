@@ -5,7 +5,12 @@ draft: true
 1. procesos exponenciales (desde ideas disruptivas)
 2. personas con mayor tolerancia al costo social
 
-
+---
+Sistemas para los que la IA simplemente aceleró la debacle.
+1. Falta de originalidad (la copia de la copia) en redes sociales
+2. Arruinar google (ya venía habiendo una crisis de optimizar el SEO y pagerank)
+3. Amarillismo y noticias falsas en el periodismo
+4. Crisis educativa (uso de IA)
 
 ---
 Hipótesis: la ciencia crece porque hay una dinámica de crecer o perecer una vez que hay disputa de redes. Se desarrolla demasiado a partir del auge del mercado.
@@ -192,7 +197,11 @@ A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+n
 	- Qué significa la escala de la cooperación
 - Correlatos emocionales de sistemas de cooperación
 
+---
 
+El minkado podría permitir premios y penalizaciones a acciones después de que estas hubieran sucedido.
+
+----
 
 [ ] Costo al crowding
 [x] dilema central
@@ -242,7 +251,7 @@ Beneficios de cooperar
 2. En algún momento había reglas para que las mujeres se vistieran más tranquis.
 
 ----
-Respuesta a Flavia Costa
+Respuesta a Flavia 
 
 ---
 La diferencia entre una máquina y un sistema vivo es más cualitativa que cuantitativa, pero tiene que ver con la capacidad de que un equipo de personas haga todo el seguimiento de cómo el sistema funciona.
@@ -309,10 +318,19 @@ respecto de este sistema económico, la IA va a acelerar su destrucción, salvo 
 ---
 Keynesianismo de plataformas
  
- Si tuviéramos algo así como un rapi del Estado que pueda contratar gente bajo demanda para tareas pertinentes para el Estado, eso podría ser una lenta transición al socialismo.
- O sea, al principio tendría un shock grande porque mucha gente que trabaja directamente para el Estado, que son empleados estatales, perderían en la competencia con otra gente.
- Pero después se podría empezar a subir los impuestos y pedirle a la gente que haga muchas cosas útiles para la sociedad, que incluso la gente vote o proponga de mejorar las plazas, lo que sea.
- Eventualmente se van a ir aumentando los impuestos, pero también la plataforma va a permitir muchas formas de aportar.
- Entonces la gente en lugar de pagar impuestos puede hacer tareas que se le asignen a partir de los votos de la gente.
+Si tuviéramos algo así como un rappi del Estado que pueda contratar gente bajo demanda para tareas pertinentes para el Estado, eso podría ser una lenta transición al socialismo.
+O sea, al principio tendría un shock grande porque mucha gente que trabaja directamente para el Estado y/o empleados estatales por el aumento de la competencia.
+Pero después se podría empezar a aumentar la cantidad de actividades que se llevan a cabo. Eventualmente subir los impuestos y pedirle a la gente que haga muchas cosas útiles para la sociedad, que incluso la gente vote o proponga de mejorar las plazas, lo que sea.
+Entonces la gente en lugar de pagar impuestos puede hacer tareas que se le asignen a partir de los votos de la gente (como forma de percibir ingresos)
 
 
+----
+1. Minkado (cómo funciona) -> transacciones colectivas
+2. El desafío de sumar valor a través de transacciones colectivas. 
+3. Desafío de reemplazar al reconocimiento
+4. Algunos intentos son:
+	1. Desentradas
+5. Garantía social
+-----
+El hecho de que varias plataformas van a empezar a usar un crowding cost.
+Porque si no van a colapsar.
