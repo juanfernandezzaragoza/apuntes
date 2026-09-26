@@ -2,6 +2,10 @@
 title: to do
 draft: true
 ---
+1. rotación (y falta de cooperación con alta rotación)
+2. sistema de apelaciones
+---
+
 1. procesos exponenciales (desde ideas disruptivas)
 2. personas con mayor tolerancia al costo social
 
