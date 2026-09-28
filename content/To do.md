@@ -338,3 +338,4 @@ Entonces la gente en lugar de pagar impuestos puede hacer tareas que se le asign
 -----
 El hecho de que varias plataformas van a empezar a usar un crowding cost.
 Porque si no van a colapsar.
+git add -A && git commit -m "tablet test" && git push
