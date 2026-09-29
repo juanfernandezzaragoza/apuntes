@@ -2,8 +2,6 @@
 title: to do
 draft: true
 ---
-1. rotación (y falta de cooperación con alta rotación)
-2. sistema de apelaciones
 ---
 
 1. procesos exponenciales (desde ideas disruptivas)
@@ -63,7 +61,9 @@ Cápside dictatorial
 - Humana vs. alienígenas
 
 ----
-
+donde el reconocimiento no funcione: 
+- lugares donde ahora no funcione (grupos que no tengan esa dinámica explícitamente entre sí)
+- lugares donde no pueda funcionar (anonimato, lejanía física, alta rotación?)
 
 ---
 Ideas sobre IA
