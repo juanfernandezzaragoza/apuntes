@@ -3,9 +3,17 @@ title: to do
 draft: true
 ---
 ---
+small pond ism
+
+---
 
 1. procesos exponenciales (desde ideas disruptivas)
 2. personas con mayor tolerancia al costo social
+
+
+
+
+
 
 ---
 Sistemas para los que la IA simplemente aceleró la debacle.
