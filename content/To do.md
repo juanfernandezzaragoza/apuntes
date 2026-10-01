@@ -3,24 +3,22 @@ title: to do
 draft: true
 ---
 ---
-small pond ism
+1. small pond ism
+2. Crisis de motivación
+3. Minkado y mediana (posiblemente post viaje)?
+4. Menú de distorsiones de las emociones
+5. nivel de abstracción
 
 ---
 
 1. procesos exponenciales (desde ideas disruptivas)
-2. personas con mayor tolerancia al costo social
-
-
-
 
 
 
 ---
-Sistemas para los que la IA simplemente aceleró la debacle.
-1. Falta de originalidad (la copia de la copia) en redes sociales
-2. Arruinar google (ya venía habiendo una crisis de optimizar el SEO y pagerank)
-3. Amarillismo y noticias falsas en el periodismo
-4. Crisis educativa (uso de IA)
+
+
+
 
 ---
 Hipótesis: la ciencia crece porque hay una dinámica de crecer o perecer una vez que hay disputa de redes. Se desarrolla demasiado a partir del auge del mercado.
@@ -34,8 +32,6 @@ la presión por desarrollarse, contra tu propia voluntad, porque si no se desarr
 la presión por efectos de red, dominio, etc. Es lo mismo de siempre. 
 Quedó "oculto" por los modelos de los economistas, pero es lo mismo de siempre
 => Esto podría formar parte de la disputa de redes.
-
-El problema de cooperación entre empresas de IA se replica en la población general (todos queremos que nadie más la use, pero la usamos)
 
 
 ---
@@ -309,24 +305,11 @@ El discurso sólo funciona en relación a los tejidos.
 ----
  [21:33, 9/21/2026] Juano Zaragoza: al mismo tiempo, creo que muchos cambios culturales del siglo XXI vinieron más por la introducción de redes sociales y celulares que por la trayectoria militante y construcción teórica del siglo XX, pero eso ya es una discusión más larga
 [21:34, 9/21/2026] Juano Zaragoza: Por supuesto que es una discusión muy importante, que creo que tendríamos si nos tomáramos en serio la política y el cambio social, pero no hay mucho contexto donde charlar de estas cosas en profundidad
-[21:39, 9/21/2026] Juano Zaragoza: Por supuesto que es una discusión muy importante, que creo que tendríamos si nos tomáramos en serio la política y el cambio social, pero no hay mucho contexto donde charlar de estas cosas en profundidad
 Es importante porque, si fuera cierto que la base material fuera más impactante que la construcción superestructural o ideológica, entonces la revolución debería concentrarse en tecnologías de organización, producción y comunicación que generen efectos distintos en la sociedad, en lugar de construcción teórica / partidaria. Lamentablemente, hoy todo ese trabajo (que impacta tanto a la sociedad) está copado por lo peor del capitalismo
 
 --- 
 
- Hoy la IA es más un catalizador que un reactivo.
- Esto quiere decir que sus efectos más importantes hoy son por acelerar dinámicas preexistentes en lugar de generar dinámicas nuevas.
- Especialmente rompe rápido los sistemas cuyos incentivos estaban rotos y mejora rápido los pocos sistemas cuyos incentivos andaban bien.
- Respecto a la economía, genera un punto, punto.
-respecto de este sistema económico, la IA va a acelerar su destrucción, salvo que armemos uno nuevo.
- ¿Por qué? Porque a medida que nos alejamos del alcance de las comunidades
- se pueden hacer cosas que perjudiquen a las comunidades.
- Las comunidades tienen un rango dentro del cual dicen lo que hagas tiene que beneficiar a la comunidad
- y si haces cosas que perjudican a la comunidad vas a recibir algún castigo, micro castigo.
- A medida que la economía excede a ese rango hay muchas cosas que quedan afuera
- y que empiezan a rebelarse.
- Las jerarquías tienen mayor rango pero menor ancho de banda.
-
+ 
 ---
 Keynesianismo de plataformas
  
@@ -347,3 +330,8 @@ Entonces la gente en lugar de pagar impuestos puede hacer tareas que se le asign
 El hecho de que varias plataformas van a empezar a usar un crowding cost.
 Porque si no van a colapsar.
 git add -A && git commit -m "tablet test" && git push
+
+
+Quick takes:
+1. El salario no te lo da tu empresa, te lo da la alternativa. En el sentido de que la altenrativa es lo que define tu piso.
+2. Mientras tengamos el incentivo de hacer cosas malas, mejor tener menos poder. Sólo sería bueno tener poder con el incentivo de hacer cosas buenas.   
