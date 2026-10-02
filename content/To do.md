@@ -4,10 +4,9 @@ draft: true
 ---
 ---
 1. small pond ism
-2. Crisis de motivación
-3. Minkado y mediana (posiblemente post viaje)?
-4. Menú de distorsiones de las emociones
-5. nivel de abstracción
+2. Minkado y mediana (posiblemente post viaje)?
+3. Menú de distorsiones de las emociones
+4. nivel de abstracción
 
 ---
 
@@ -180,8 +179,6 @@ en torno al sistema de rangos
 - Amistad como crédito de reciprocidad
 - Popularidad como crédito de admiración? o lealtad?
 ---
-- Primacía de la mayoría en el reconocimiento 
-----
 
 - Caída de códigos morales
 	- Sumar a lo de "esclavitud" un comentario sobre que los códigos morales ganan sobre los económicos (acá quizás lo que quise decir fue que los incentivos económicos triunfan y moderan los códigos sostenidos e incluso reportados)
