@@ -4,7 +4,7 @@ draft: false
 ---
 El mito discursivista es la creencia errónea de que los argumentos alteran las actitudes o emociones de una población. Es creer que el discurso transforma la realidad cuando verdaderamente la realidad transforma el discurso.
 
-El mito nace porque las actitudes suelen [[racionalización|racionalizarse]] mediante argumentos, y porque los procesos [[intuición y razón|intuitivos]] que determinan nuestra conducta son inconscientes. Subjetivamente, sentimos que el discurso tiene efectos causales, y pasamos por alto los factores más importantes.
+El mito nace porque las actitudes suelen [[racionalización|racionalizarse]] mediante argumentos, y porque los procesos [[intuición y razón|intuitivos]] que determinan nuestra conducta son inconscientes. Subjetivamente, sentimos que el discurso tiene efectos causales, mientras que pasamos por alto los factores causales subaycentes.
 
 En realidad, nuestras actitudes no se adaptan a nuestras creencias o educación sino que, por el contrario, nuestras creencias se adaptan a nuestras actitudes. Las actitudes, en cambio, suelen obedecer a la [[sistema de intermotivación|motivación social]].
 
@@ -17,5 +17,5 @@ Para ilustrarlo con una metáfora, el discurso no _rema_ con su propia fuerza si
 2. Desamparo por cambio de creencias: Desde la revolución industrial, las personas se alejaron de creencias religiosas, y al mismo tiempo aumentó la sensación de desamparo. La tradición filosófica atribuyó el desamparo al cambio en las creencias. En realidad, tanto el desamparo como el abandono de ideas religiosas sostenidas por comunidades respondía al [[desplazamiento de comunidades]] producto del desarrollo tecnológico.
 
 Ejemplos de discurso que sí modifica actitudes:
-1. Las órdenes de un jerarca son discurso que modifica actitudes. El chisme también. En ambos casos, el discurso funciona porque encarna un [[tejido de cooperación]].
+1. Las órdenes de un jerarca son discurso que modifica actitudes. El chisme también. En ambos casos, el discurso funciona porque encarna un [[tejido de cooperación]]. En general, las creencias que generan [[equilibrio estable|equilibrios]] pueden afectar la conducta poblacional.
 2. Las instrucciones para construir un puente o una nave espacial son discurso que modifica actitudes. En ambos casos, el discurso ayuda a resolver un problema que los individuos ya están motivados en resolver, gracias a algún tejido de cooperación que lo motiva.

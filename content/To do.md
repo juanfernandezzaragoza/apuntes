@@ -182,7 +182,7 @@ en torno al sistema de rangos
 
 - Caída de códigos morales
 	- Sumar a lo de "esclavitud" un comentario sobre que los códigos morales ganan sobre los económicos (acá quizás lo que quise decir fue que los incentivos económicos triunfan y moderan los códigos sostenidos e incluso reportados)
-- Heroísmo y tabú
+
 
 
 A modo de readme: https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages 
@@ -306,7 +306,11 @@ Es importante porque, si fuera cierto que la base material fuera más impactante
 
 --- 
 
- 
+Esto podría, a su vez, generar mejor contenido. (Ronda tendría que ser una carpeta aparte) Cómo generarí amejor contenido (ejemplo que había dado en algún pitch)
+
+----
+Preservación por viralidad
+
 ---
 Keynesianismo de plataformas
  
@@ -326,8 +330,6 @@ Entonces la gente en lugar de pagar impuestos puede hacer tareas que se le asign
 -----
 El hecho de que varias plataformas van a empezar a usar un crowding cost.
 Porque si no van a colapsar.
-git add -A && git commit -m "tablet test" && git push
-
 
 Quick takes:
 1. El salario no te lo da tu empresa, te lo da la alternativa. En el sentido de que la altenrativa es lo que define tu piso.
