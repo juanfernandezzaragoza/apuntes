@@ -8,6 +8,8 @@ En contextos de [[reconocimiento]], nuestras [[emociones de cooperación|emocion
 2. La frustración indica que estamos haciendo esfuerzos demasiado grandes con escasos resultados, y conviene buscar una actividad más acorde a nuestras capacidades.
 3. La motivación o la diversión indican que hay una buena relación entre nuestro esfuerzo y su rendimiento, por lo que conviene preservar la actividad que estamos llevando a cabo.
 
+La motivación sufre [[crisis de motivación|crisis]] debido a las [[distorsiones]] del tejido social.
+
 **Vínculos externos**
 
 1. [Estado de _flow_](https://en.wikipedia.org/wiki/Flow_(psychology))

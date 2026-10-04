@@ -41,8 +41,6 @@ Las revoluciones son procesos exponenciales
 
 ----
 
-Control desde el ruido 
-
 qué es un modelo
 
 ----
@@ -208,7 +206,7 @@ El minkado podría permitir premios y penalizaciones a acciones después de que 
 
 ----
 
-[ ] Costo al crowding
+[x] Costo al crowding
 [x] dilema central
 [x] por qué jerarquías son grupales
 [x] Por qué reconocimiento no escala
