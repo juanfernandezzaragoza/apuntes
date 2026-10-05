@@ -78,7 +78,7 @@ Ideas sobre IA
 
 ----
 
-Si algún día los alienígenas conquistan la tierra,
+Si algún día los alienígenas conquistan la tierra, un problema importante serán las cápsides humanas.
 
 ---
 
