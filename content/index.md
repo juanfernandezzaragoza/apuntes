@@ -6,7 +6,7 @@ Soy [Juan Zaragoza](https://juanozaragoza.com), y estos son mis apuntes sobre la
 
 Cada entrada cuenta una idea sencilla y refiere a otras ideas sencillas.
 
-La página está en construcción y nunca dejará de estarlo. Todas las mañanas, desde el 8 de junio de 2026, sumo al menos una página nueva a esta wiki.
+La página está en construcción y nunca dejará de estarlo. Desde el 8 de junio de 2026, añado al menos una página todas las mañanas. Tuve una pausa el mes de octubre porque estuve de viaje.
 
 Si tenés preguntas o comentarios, no dudes en contactarme.
 
