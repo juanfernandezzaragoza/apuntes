@@ -2,7 +2,7 @@
 title: Bullshit jobs
 draft: false
 ---
-El concepto de *bullshit jobs* puede traducirse como "trabajos inútiles", "trabajos de mentira" o, en la jerga argentina, "trabajos truchos". El concepto fue acuñado por el antropólogo David Graeber para referirse a trabajos que cuestan trabajo y recursos pero no aportan valor a la sociedad.
+El concepto de *bullshit jobs* puede traducirse como "trabajos inútiles", "trabajos de mentira" o, en la jerga argentina, "trabajos truchos". El concepto fue acuñado por el antropólogo David Graeber para referirse a trabajos que cuestan recursos pero no aportan valor a la sociedad.
 
 Un tipo paradigmático de *bullshit jobs* son aquellos trabajos que sólo sirven para contrarrestar el hecho de que otros lo hagan. Por ejemplo, podríamos imaginar un mundo en que dos marcas tienen a la mitad de los clientes cada una, siempre que destinen la misma cantidad de recursos al marketing. En ese caso, cuando una empresa aumenta el marketing, obliga a la otra a aumentar el marketing para no perder a sus clientes. Sin embargo, la distribución del mercado sería la misma tanto si ninguna invierte en marketing como si ambas disponen esfuerzos igualmente inmensos. Este tipo de marketing es considerado un bullshit job, y es un caso particular de escaladas armamentistas o dinámicas de [[red queen]].
 
