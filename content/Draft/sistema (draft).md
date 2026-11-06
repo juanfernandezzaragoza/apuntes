@@ -1,3 +1,5 @@
+
+
 Un sistema o modelo es una entidad formal caracterizado por un conjunto de estados y un conjunto de transiciones entre estados. Si un sistema es abierto, sus transiciones son sensibles al estado del entorno.
 
 Dos sistemas son el mismo sistema si sus descripciones son isomorfas. Un sistema es una abstracción de otro sistema si es un homomorfismo del sistema.
