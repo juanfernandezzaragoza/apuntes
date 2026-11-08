@@ -2,7 +2,7 @@
 draft: false
 title: Primacía del tejido sobre las reglas
 ---
-Cuando un [[tejido de cooperación|tejido]] de cooperación [[nivel de cooperación|grupal]] sostiene reglas, el tejido determina si las reglas se cumplen o no.
+Cuando un [[tejido de cooperación|tejido]] de cooperación [[nivel de cooperación|grupal]] sostiene reglas, el tejido determina si las reglas se cumplen o no. Esto es porque los tejidos de cooperación son más [[sistemas fundamentales y subsidiarios|fundamentales]].
 
 Por ejemplo, una sociedad podría tener una regla de respeto a la propiedad privada. Si la regla [[dependencia|se sostiene]] en la [[jerarquías|jerarquía]] policial, depende de que el comisario desee imponerla. Si un comisario corrupto decide liberar una zona para permitir robos, la regla quedará suspendida.
 

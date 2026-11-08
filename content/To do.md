@@ -12,7 +12,8 @@ draft: true
 
 1. procesos exponenciales (desde ideas disruptivas)
 
-
+---
+Desgarro (para hablar de eso que pasó, por ejemplo, con los Medici)
 
 ---
 

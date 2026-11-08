@@ -1,0 +1,9 @@
+---
+title: Moderar las jerarquías
+draft: false
+---
+Los [[jerarquías|jerarcas]] obtienen su [[jerarquías y poder|poder]] porque desobedecer al jerarca es una [[externalidad]]. Sin embargo, cuando los subordinados cuentan con un [[tejido de cooperación]] capaz de enfrentar estas externalidades, pueden cooperar para desobedecer juntos al jerarca sin que nadie penalice a los desobedientes, siempre que esto sea bueno para el grupo.
+
+Hasta la actualidad, esto solo sucedió en grupos [[escala de cooperación|pequeños]], donde los subordinados pueden cooperar mediante el [[reconocimiento]]. Así, por ejemplo, las tripulaciones piratas sostuvieron proto-democracias a principios del siglo XVIII, antes de la Revolución Francesa. Lo mismo sucedió con algunas comunidades puritanas en Massachussetts antes de la Independencia de los Estados Unidos. Las democracias necesitan [[dependencia|sostenerse]] en algún tejido de cooperación, porque empezar a obedecer a un jerarca nuevo implica desobedecer al jerarca anterior, lo cual es contrario a los incentivos individuales salvo que esté incentivado por algún otro tejido. En la República de Florencia, durante el renacimiento, la democracia se sostenía en el reconocimiento alrededor de una [[oligarquía]] de comerciantes, banqueros y manufactureros, quienes votaban a sus representantes y exigían la rotación de algunos cargos jerárquicos como la jefatura de la policía.
+
+Es importante observar que cualquier actividad sindical o de las bases que busque limitar el poder de los jerarcas debe sostenerse en algún tejido de cooperación. Limitar el poder de las jerarquías de gran escala requiere [[quinto tejido|cooperación escalable y horizontal]]. Cualquier sistema de reglas que no sea un tejido de cooperación y busque limitar el poder de las jerarquías (tal como exigir la rotación de cargos jerárquicos o la elección democrática de representantes) es insuficiente por la [[primacía del tejido sobre las reglas]].
