@@ -125,7 +125,6 @@ Introducir el término "desgarro" para hablar del desplazamiento de tejidos.
 ---
 
 1. Revoluciones como procesos exponenciales
-2. La economía como algo que se acelera (tipo no es solo dar un pasito en una dirección sino ir cada vez más rápido, por eso un cambio tan chiquito impactaría tanto) -> de hecho eso sucedía en las pequeñas comunidades, cambiaba muchísimo
 
 ---
 Preguntas científicas no respondidas
