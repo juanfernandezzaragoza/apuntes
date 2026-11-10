@@ -17,7 +17,11 @@ Desgarro (para hablar de eso que pasó, por ejemplo, con los Medici)
 
 ---
 
-
+Represión y liberalidad
+1. Europa y oriente medio en medioevo vs. actualidad
+2. Inglaterra preserva conquistas lejanas pero destruye simbología enemiga tras la segunda guerra mundial
+3. Radicalización
+4. versión cultural de las cápsides
 
 
 ---
@@ -79,7 +83,6 @@ Ideas sobre IA
 
 ----
 
-Si algún día los alienígenas conquistan la tierra, un problema importante serán las cápsides humanas.
 
 ---
 
