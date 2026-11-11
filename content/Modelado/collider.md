@@ -2,7 +2,7 @@
 title: Collider
 draft: false
 ---
-Un *collider* es una estructura causal donde dos variables influencian positivamente a una tercera variable. Son interesantes porque, cuando uno fija la tercera variable, las variables que colisionan mostrarán una relación negativa entre sí que no necesariamente existe en la población general.
+Un *collider* es una estructura causal donde dos variables influencian positivamente a una tercera variable. Es interesante porque, cuando uno fija la tercera variable, las variables que colisionan mostrarán una relación negativa entre sí que no necesariamente existe en la población general.
 
 Por ejemplo, la variable "ser buen actor" aumenta la probabilidad de ser actor de Hollywood. La variable "ser estéticamente agradable" también aumenta la probabilidad de ser actor de Hollywood. Esto implica que si alguien es muy bello, puede llegar a Hollywood incluso sin ser excelente actor, y que si alguien es excelente actor puede llegar a Hollywood incluso sin ser extraordinariamente bello. Como resultado, entre los actores de Hollywood, aparece una correlación inversa entre ser bello y ser buen actor, aunque esta correlación inversa no exista en la población general.
 
