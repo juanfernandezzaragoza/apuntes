@@ -335,3 +335,15 @@ Porque si no van a colapsar.
 Quick takes:
 1. El salario no te lo da tu empresa, te lo da la alternativa. En el sentido de que la altenrativa es lo que define tu piso.
 2. Mientras tengamos el incentivo de hacer cosas malas, mejor tener menos poder. Sólo sería bueno tener poder con el incentivo de hacer cosas buenas.   
+
+
+# Términos con los que no estoy de acuerdo
+- Capitalismo
+	- Pone en la misma bolsa cosas distintas (mercado y jerarquías)
+	- Separa cosas que son funcionalmente iguales (jerarquías empresarial, sindical, feudal, soviética)
+	- Confunde la dinámica funcional que genera la concentración de poder con sus implementaciones materiales
+- Alienación
+	- Parte de la base de que el interés individual y el comunitario coinciden
+	- Entonces traicionar al grupo implica estar enajenado
+	- Pero el trabajador que traiciona la huelga para alimentar a su familia no está enajenado
+	- Además, después su justificación racional de esa idea es una racionalización (no es que no entiende el mundo, es que la relación entre nuestras ideas y el mundo está atravesada por nuestra motivación)
