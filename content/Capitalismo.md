@@ -1,0 +1,9 @@
+---
+title: Capitalismo
+draft: false
+---
+Prefiero evitar el término "capitalismo", porque no creo que describa fundamentalmente a un sistema económico. Por un lado, junta o acopla dos conceptos en uno solo, que son las [[jerarquías]] empresariales (que permiten la [[extracción de excedentes]]) y la economía de [[mercado]] que las integra (además de otras jerarquías involucradas, como el Estado o los sindicatos). Es más útil considerar a los sistemas [[sistemas fundamentales y subsidiarios|fundamentales]] de [[sistema de intermotivación|organización social]] por separado.
+
+Por otro lado, separa el funcionamiento de jerarquías funcionalmente idénticas como estructuras de poder, organización y toma de decisiones, según qué actividad específica lleva a cabo cada jerarquía. Si la jerarquía organiza la producción y protección de un campo autónomamente se la llama "feudal", si organiza la producción de bienes y servicios se la llama "capitalista", y si organiza la producción de todos los bienes y servicios de un país se la llama "socialista". Así, trata como sistemas diferentes a cosas que en realidad son el mismo sistema haciendo cosas diferentes. Trata a disposiciones específicas o coyunturales, como las decisiones productivas o de organización que toman los jerarcas, o la forma concreta que toma la extracción de excedentes, como si fueran estructuras fundamentales, como las jerarquías mismas que permiten la extracción de excedentes en general. 
+
+El problema de centrarse en aspectos coyunturales es que lleva a sobrestimar la importancia de los aspectos coyunturales y a desestimar el problema estructural. Pareciera que, si el problema es el capitalismo, basta ir de las jerarquías capitalistas hacia una jerarquía socialista para resolver los problemas que, en realidad, nacen de las propias estructuras jerárquicas.
