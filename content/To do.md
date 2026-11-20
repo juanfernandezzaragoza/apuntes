@@ -341,9 +341,4 @@ Quick takes:
 - Capitalismo
 	- Pone en la misma bolsa cosas distintas (mercado y jerarquías)
 	- Separa cosas que son funcionalmente iguales (jerarquías empresarial, sindical, feudal, soviética)
-	- Confunde la dinámica funcional que genera la concentración de poder con sus implementaciones materiales
-- Alienación
-	- Parte de la base de que el interés individual y el comunitario coinciden
-	- Entonces traicionar al grupo implica estar enajenado
-	- Pero el trabajador que traiciona la huelga para alimentar a su familia no está enajenado
-	- Además, después su justificación racional de esa idea es una racionalización (no es que no entiende el mundo, es que la relación entre nuestras ideas y el mundo está atravesada por nuestra motivación)
+	- Confunde la dinámica funcional que genera la concentración de poder con sus 
