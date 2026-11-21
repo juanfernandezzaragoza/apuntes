@@ -9,6 +9,12 @@ draft: true
 4. nivel de abstracción
 
 ---
+Clase 
+1. Ocutla el problema que hace nacer las jerarquias
+2. Etc.
+3. Está todo en los audios que mandé sobre marxismo?
+
+---
 
 1. procesos exponenciales (desde ideas disruptivas)
 
