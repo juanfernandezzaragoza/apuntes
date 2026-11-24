@@ -1,0 +1,9 @@
+---
+title: Clase
+draft: false
+---
+Evito usar el concepto marxista de "clase social" porque no ayuda a pensar cómo funciona la historia. Esto es porque el concepto trata sobre dos cosas a la vez, que es mejor considerar por separado: por un lado, una clase señala a un grupo que comparte ciertos objetivos a [[nivel de cooperación|nivel grupal]]. Por otro lado, la clase pretende ser un elemento útil para interpretar cómo se mueve la historia, sobre el supuesto de que la clase, con el tiempo, perseguirá los intereses del propio grupo. Asumir que un grupo perseguirá automáticamente los intereses del grupo es un error, porque no considera [[externalidad|externalidades]] que suelen obstaculizar ese proceso, ni comprende la importancia de los [[tejido de cooperación|tejidos de cooperación]].
+
+Omitir los problemas de alineación grupal llevó al marxismo a no considerar las [[jerarquías]], que precisamente surgen para resolver la alineación grupal a gran escala, y son el verdadero [[sistemas fundamentales y subsidiarios|fundamento]] del [[jerarquías y poder|poder]] y la extracción de excedentes. Además, impide comprender cómo las jerarquías preservan y acrecientan su propio poder, lo cual depende precisamente de lograr que el interés individual de los subordinados sea obedecer al jerarca, incluso cuando el interés grupal es confrontarlo. 
+
+Por otra parte, el marxismo separa como "clases" distintas a grupos que funcionalmente son idénticos en sus aspectos estructurales. Por ejemplo, toma subordinados de distintas jerarquías como grupos esencialmente distintos (como los siervos feudales y los proletarios fabriles), cuando a nivel sistémico funcionan igual. Creo que esto nace de mirar las implementaciones materiales de las relaciones de poder en lugar de su funcionamiento general, algo que nace de no observar los tejidos de cooperación y se vincula, también, a usar términos como [[capitalismo]] o [[tecnofeudalismo]].

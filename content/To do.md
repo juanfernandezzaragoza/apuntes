@@ -10,7 +10,7 @@ draft: true
 
 ---
 Clase 
-1. Ocutla el problema que hace nacer las jerarquias
+1. Oculta el problema que hace nacer las jerarquias
 2. Etc.
 3. Está todo en los audios que mandé sobre marxismo?
 
