@@ -10,7 +10,7 @@ La reciprocidad es [[sistemas circulares|circular]] porque implementarla es prov
 
 En contextos sin reencuentros, la reciprocidad no prospera. En contextos que requieren [[nivel de cooperación|cooperación grupal]], porque las acciones tienen [[externalidad|externalidades]] que afectan a grupos enteros, la reciprocidad [[reciprocidad y externalidades|tampoco prospera]]. 
 
-La reciprocidad es implementada por nuestras [[emociones de reciprocidad|emociones]], de manera que la llevamos a cabo en forma automática e inconsciente.
+La reciprocidad es implementada por nuestras [[emociones de reciprocidad|emociones]], de manera que la llevamos a cabo en forma automática e inconsciente. Es esencial para la [[amistad]] entre individuos.
 
 La reciprocidad tiene una versión [[mercado escala reciprocidad|explícita y escalable]], el mercado.
 

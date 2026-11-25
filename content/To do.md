@@ -8,11 +8,6 @@ draft: true
 3. Menú de distorsiones de las emociones
 4. nivel de abstracción
 
----
-Clase 
-1. Oculta el problema que hace nacer las jerarquias
-2. Etc.
-3. Está todo en los audios que mandé sobre marxismo?
 
 ---
 
@@ -66,12 +61,6 @@ qué es un modelo
 6. Enumeración de para qué sirve el networkismo, qué contenidos resume o considera (esto quizás ya está)
 
 7. Enumeración de ejemplos del mito discursivista
-----
-
-Cápside dictatorial
-- Humana vs. robots y empresas de IA
-- Humana vs. alienígenas
-
 ----
 donde el reconocimiento no funcione: 
 - lugares donde ahora no funcione (grupos que no tengan esa dinámica explícitamente entre sí)
