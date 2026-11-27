@@ -309,7 +309,8 @@ Preservación por viralidad
 
 ---
 Keynesianismo de plataformas
- 
+(microlicitaciones)
+
 Si tuviéramos algo así como un rappi del Estado que pueda contratar gente bajo demanda para tareas pertinentes para el Estado, eso podría ser una lenta transición al socialismo.
 O sea, al principio tendría un shock grande porque mucha gente que trabaja directamente para el Estado y/o empleados estatales por el aumento de la competencia.
 Pero después se podría empezar a aumentar la cantidad de actividades que se llevan a cabo. Eventualmente subir los impuestos y pedirle a la gente que haga muchas cosas útiles para la sociedad, que incluso la gente vote o proponga de mejorar las plazas, lo que sea.

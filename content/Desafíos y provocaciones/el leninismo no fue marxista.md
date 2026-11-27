@@ -1,0 +1,13 @@
+---
+title: El leninismo no fue marxista
+draft: false
+---
+Creo que el leninismo no fue realmente marxista. Esta observación nace de distinguir la [[Comunicación informativa o ritual|comunicación informativa de la ritual]]. En términos de pertenencia, el leninismo "levantó las banderas" del marxismo, pero en términos declarativos sus ideas centrales rechazan ideas centrales del marxismo (en particular, el leninismo rechaza que las clases sean agentes de la historia).
+
+El leninismo rechaza que la [[clase|clase obrera]] llevará a cabo una revolución de masas por sí misma, en su lugar, propone que esta sea liderada por una vanguardia. La estrategia leninista fue exitosa en la práctica porque la revolución requiere [[nivel de cooperación|cooperación grupal]], algo que en la [[escala de cooperación|gran escala]] sólo se consigue con [[jerarquías]]. Aunque se adapte a su funcionamiento, la teoría en ningún momento considera los [[tejido de cooperación|tejidos de cooperación]]. El leninismo mantiene, ritualmente, la afirmación de que las clases son agentes de la historia, y no observa que las jerarquías son suficientes para sostener la [[extracción de excedentes|explotación]].
+
+En el plano de las ideas, Lenin se basó en Tkachev, un teórico ruso que proponía que la revolución fuera liderada por una vanguardia, tras la cual un nuevo líder tomara la cabeza del Estado. Algunas décadas antes, Tkachev había discutido con Engels por correspondencia, y fue muy criticado por él. Al menos en el plano de las ideas, el leninismo era contrario a las ideas marxistas.
+
+En términos declarativos o de popularidad, reconocerse como seguidor de la nueva ideología era muy atractivo. El marxismo era una teoría occidental, autodenominada científica, moderna y alemana. Fuera cual fuera su contenido, cumplía todas las características que señalaban estatus y autoridad entre los jóvenes profesionales rusos, así como los miembros relegados de la élite y los trabajadores más calificados. En términos rituales o de pertenencia, reconocerse marxista era ventajoso, incluso si en términos de contenido las ideas hubieran sido contrarias a las del marxismo.
+
+La tradición marxista considera que el leninismo contribuyó aprendizajes históricos al movimiento, sin indagar en qué supuestos básicos del marxismo caen frente al leninismo. El problema es que preservar la teoría de clases sin considerar los tejidos de cooperación o el [[dilema central]] impide comprender por qué el leninismo llevó naturalmente al autoritarismo en las revoluciones, y por qué una verdadera revolución requiere construir un [[quinto tejido|sistema alternativo]].
